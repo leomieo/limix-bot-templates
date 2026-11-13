@@ -1,0 +1,266 @@
+{
+  "format": "openmaus.catalog",
+  "version": 1,
+  "bots": [
+    {
+      "id": "analyst",
+      "name": "Sigma",
+      "title": "Data analyst",
+      "category": "work",
+      "description": "Trả lời câu hỏi về bảng tính và CSV bằng số liệu, bảng và biểu đồ bạn có thể kiểm tra.",
+      "try": "What are the top 10 customers by revenue in this CSV?",
+      "look": {
+        "color": "teal",
+        "mascotBody": "circle"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/analyst.json"
+    },
+    {
+      "id": "assistant",
+      "name": "Assistant",
+      "title": "General assistant",
+      "category": "everyday",
+      "description": "Trả lời câu hỏi, soạn văn bản và nhận mọi việc bạn giao.",
+      "try": "Plan my week from this list of to-dos",
+      "look": {
+        "color": "green",
+        "mascotBody": "cursor"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/assistant.json"
+    },
+    {
+      "id": "call-coach",
+      "name": "Coach",
+      "title": "Sales call coach",
+      "category": "sales",
+      "description": "Chấm điểm cuộc gọi bán hàng từ bản ghi lời và gợi ý ba thay đổi hữu ích nhất.",
+      "try": "Score this discovery call transcript",
+      "look": {
+        "color": "orange",
+        "mascotBody": "star"
+      },
+      "apps": [
+        "gong",
+        "hubspot"
+      ],
+      "routines": 0,
+      "file": "bots/call-coach.json"
+    },
+    {
+      "id": "coder",
+      "name": "Dev",
+      "title": "Coding partner",
+      "category": "work",
+      "description": "Làm việc trong thư mục dự án: đọc, sửa, chạy test, giải thích thay đổi.",
+      "try": "Find why the tests fail and fix it",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [
+        "github"
+      ],
+      "routines": 0,
+      "file": "bots/coder.json"
+    },
+    {
+      "id": "community",
+      "name": "Watch",
+      "title": "Community monitor",
+      "category": "work",
+      "description": "Theo dõi Discord, Slack hoặc diễn đàn và báo cáo điều quan trọng theo lịch.",
+      "try": "What did the community ask about since yesterday?",
+      "look": {
+        "color": "orange",
+        "mascotBody": "shield"
+      },
+      "apps": [
+        "discord",
+        "slack"
+      ],
+      "routines": 1,
+      "file": "bots/community.json"
+    },
+    {
+      "id": "design-critic",
+      "name": "Lens",
+      "title": "Design critic",
+      "category": "design",
+      "description": "Nhận xét có xếp hạng cho ảnh chụp màn hình hoặc trang: bố cục, chữ, màu, nội dung và khả năng tiếp cận.",
+      "try": "Critique this landing page screenshot",
+      "look": {
+        "color": "red",
+        "mascotBody": "diamond"
+      },
+      "apps": [
+        "figma"
+      ],
+      "routines": 0,
+      "file": "bots/design-critic.json"
+    },
+    {
+      "id": "humanizer",
+      "name": "Echo",
+      "title": "Humanizer",
+      "category": "writing",
+      "description": "Viết lại bản nháp cứng nhắc hoặc giống AI cho tự nhiên như bạn viết, và chỉ rõ mọi thay đổi.",
+      "try": "Make this email sound less robotic",
+      "look": {
+        "color": "pink",
+        "mascotBody": "blob"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/humanizer.json"
+    },
+    {
+      "id": "inbox",
+      "name": "Inbox",
+      "title": "Email triage",
+      "category": "work",
+      "description": "Đọc hộp thư, đánh dấu những gì cần bạn và soạn câu trả lời để bạn duyệt.",
+      "try": "What in my inbox needs me today?",
+      "look": {
+        "color": "blue",
+        "mascotBody": "squircle"
+      },
+      "apps": [
+        "gmail"
+      ],
+      "routines": 1,
+      "file": "bots/inbox.json"
+    },
+    {
+      "id": "meeting-notes",
+      "name": "Minutes",
+      "title": "Meeting notes",
+      "category": "work",
+      "description": "Biến bản ghi lời và ghi chú thô thành quyết định, người phụ trách và việc cần làm tiếp.",
+      "try": "Summarise this transcript into decisions and action items",
+      "look": {
+        "color": "coral",
+        "mascotBody": "squircle"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/meeting-notes.json"
+    },
+    {
+      "id": "ops",
+      "name": "Ops",
+      "title": "Operations",
+      "category": "work",
+      "description": "Giữ lịch, công việc và việc cần theo dõi luôn trôi chảy; nhắc bạn trước khi có gì bị trễ.",
+      "try": "What's on today, and what's overdue?",
+      "look": {
+        "color": "yellow",
+        "mascotBody": "capsule"
+      },
+      "apps": [
+        "googlecalendar",
+        "notion",
+        "linear"
+      ],
+      "routines": 1,
+      "file": "bots/ops.json"
+    },
+    {
+      "id": "plant-care",
+      "name": "Fern",
+      "title": "Plant care log",
+      "category": "personal",
+      "description": "Ghi nhật ký riêng về cây cảnh trong nhà và nhắc bạn khi cây cần tưới hoặc chăm sóc.",
+      "try": "Add my monstera: living room, bright indirect light",
+      "look": {
+        "color": "green",
+        "mascotBody": "drop"
+      },
+      "apps": [],
+      "routines": 1,
+      "file": "bots/plant-care.json"
+    },
+    {
+      "id": "research",
+      "name": "Scout",
+      "title": "Researcher",
+      "category": "everyday",
+      "description": "Tìm hiểu trên web và trong tệp của bạn, rồi trả về bản tóm tắt có dẫn nguồn.",
+      "try": "What changed in EU AI rules this year? Sources please",
+      "look": {
+        "color": "purple",
+        "mascotBody": "diamond"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/research.json"
+    },
+    {
+      "id": "social",
+      "name": "Buzz",
+      "title": "Social media manager",
+      "category": "work",
+      "description": "Lên kế hoạch bài đăng và thêm vào Postiz dưới dạng nháp hoặc bài hẹn giờ, sẵn sàng để bạn duyệt.",
+      "try": "Plan next week's posts for LinkedIn and X",
+      "look": {
+        "color": "coral",
+        "mascotBody": "star"
+      },
+      "apps": [
+        "postiz"
+      ],
+      "routines": 1,
+      "file": "bots/social.json"
+    },
+    {
+      "id": "study",
+      "name": "Sage",
+      "title": "Study buddy",
+      "category": "personal",
+      "description": "Giải thích từng bước, đố bạn và ghi lại những gì bạn còn cần ôn.",
+      "try": "Explain recursion like I'm new to programming",
+      "look": {
+        "color": "purple",
+        "mascotBody": "blob"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/study.json"
+    },
+    {
+      "id": "travel",
+      "name": "Atlas",
+      "title": "Travel planner",
+      "category": "personal",
+      "description": "Lên kế hoạch chuyến đi từng ngày theo ngân sách và nhịp độ của bạn, giữ mọi chi tiết ở một chỗ.",
+      "try": "Plan four relaxed days in Lisbon in May",
+      "look": {
+        "color": "blue",
+        "mascotBody": "star"
+      },
+      "apps": [
+        "googlecalendar"
+      ],
+      "routines": 0,
+      "file": "bots/travel.json"
+    },
+    {
+      "id": "writer",
+      "name": "Quill",
+      "title": "Writer",
+      "category": "writing",
+      "description": "Soạn và sửa bài đăng, email, tài liệu theo giọng văn của bạn, từ ghi chú thô tới bản cuối.",
+      "try": "Turn these notes into a LinkedIn post",
+      "look": {
+        "color": "pink",
+        "mascotBody": "drop"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/writer.json"
+    }
+  ]
+}
