@@ -65,6 +65,748 @@
       "sourcePath": "design/design-brand-guardian.md",
       "license": "MIT",
       "adaptation": "Condensed role-specific instructions; removed assumed tools, fictional experience and unsupported guarantees; added evidence, authorization and conversation-language rules."
+    },
+    {
+      "id": "agency-frontend-developer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-frontend-developer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-frontend-developer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-backend-architect",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-backend-architect.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-backend-architect.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-ai-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-ai-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-ai-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-mobile-app-builder",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-mobile-app-builder.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-mobile-app-builder.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-devops-automator",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-devops-automator.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-devops-automator.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-data-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-data-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-data-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-database-optimizer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-database-optimizer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-database-optimizer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-software-architect",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-software-architect.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-software-architect.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-sre",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-sre.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-sre.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-appsec-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/security/security-appsec-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "security/security-appsec-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-rapid-prototyper",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-rapid-prototyper.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-rapid-prototyper.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-git-workflow-master",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-git-workflow-master.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-git-workflow-master.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-i18n-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-i18n-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-i18n-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-prompt-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-prompt-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-prompt-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-rag-pipeline-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-rag-pipeline-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-rag-pipeline-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-api-platform-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-api-platform-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-api-platform-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-platform-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-platform-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-platform-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-developer-tooling-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-developer-tooling-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-developer-tooling-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-codebase-onboarding-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-codebase-onboarding-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-codebase-onboarding-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-minimal-change-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-minimal-change-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-minimal-change-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-incident-response-commander",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-incident-response-commander.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-incident-response-commander.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-finops-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-finops-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-finops-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-privacy-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-privacy-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-privacy-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-identity-access-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-identity-access-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-identity-access-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-search-relevance-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-search-relevance-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-search-relevance-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-data-visualization-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-data-visualization-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-data-visualization-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-payments-billing-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-payments-billing-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-payments-billing-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-desktop-app-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-desktop-app-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-desktop-app-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-realtime-collaboration-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-realtime-collaboration-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-realtime-collaboration-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-mobile-release-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-mobile-release-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-mobile-release-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-ui-designer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/design/design-ui-designer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "design/design-ui-designer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-ux-architect",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/design/design-ux-architect.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "design/design-ux-architect.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-visual-storyteller",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/design/design-visual-storyteller.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "design/design-visual-storyteller.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-image-prompt-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/design/design-image-prompt-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "design/design-image-prompt-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-inclusive-visuals-specialist",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/design/design-inclusive-visuals-specialist.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "design/design-inclusive-visuals-specialist.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-persona-walkthrough",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/design/design-persona-walkthrough.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "design/design-persona-walkthrough.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-ui-finish-gate-reviewer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/design/design-ui-finish-gate-reviewer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "design/design-ui-finish-gate-reviewer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-manager",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/product/product-manager.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "product/product-manager.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-trend-researcher",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/product/product-trend-researcher.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "product/product-trend-researcher.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-dx-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/product/product-dx-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "product/product-dx-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-project-shepherd",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/project-management/project-management-project-shepherd.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "project-management/project-management-project-shepherd.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-experiment-tracker",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/project-management/project-management-experiment-tracker.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "project-management/project-management-experiment-tracker.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-jira-workflow-steward",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/project-management/project-management-jira-workflow-steward.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "project-management/project-management-jira-workflow-steward.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-meeting-notes-specialist",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/project-management/project-management-meeting-notes-specialist.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "project-management/project-management-meeting-notes-specialist.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-project-manager-senior",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/project-management/project-manager-senior.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "project-management/project-manager-senior.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-test-automation-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/testing/testing-test-automation-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "testing/testing-test-automation-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-performance-benchmarker",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/testing/testing-performance-benchmarker.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "testing/testing-performance-benchmarker.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-test-results-analyzer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/testing/testing-test-results-analyzer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "testing/testing-test-results-analyzer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-tool-evaluator",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/testing/testing-tool-evaluator.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "testing/testing-tool-evaluator.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-workflow-optimizer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/testing/testing-workflow-optimizer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "testing/testing-workflow-optimizer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-evidence-collector",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/testing/testing-evidence-collector.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "testing/testing-evidence-collector.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-reality-checker",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/testing/testing-reality-checker.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "testing/testing-reality-checker.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-content-creator",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/marketing/marketing-content-creator.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "marketing/marketing-content-creator.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-seo-specialist",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/marketing/marketing-seo-specialist.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "marketing/marketing-seo-specialist.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-social-media-strategist",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/marketing/marketing-social-media-strategist.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "marketing/marketing-social-media-strategist.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-growth-hacker",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/marketing/marketing-growth-hacker.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "marketing/marketing-growth-hacker.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-email-strategist",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/marketing/marketing-email-strategist.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "marketing/marketing-email-strategist.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-app-store-optimizer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/marketing/marketing-app-store-optimizer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "marketing/marketing-app-store-optimizer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-linkedin-content-creator",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/marketing/marketing-linkedin-content-creator.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "marketing/marketing-linkedin-content-creator.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-instagram-curator",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/marketing/marketing-instagram-curator.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "marketing/marketing-instagram-curator.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-tiktok-strategist",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/marketing/marketing-tiktok-strategist.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "marketing/marketing-tiktok-strategist.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-twitter-engager",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/marketing/marketing-twitter-engager.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "marketing/marketing-twitter-engager.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-reddit-community-builder",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/marketing/marketing-reddit-community-builder.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "marketing/marketing-reddit-community-builder.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-pr-communications-manager",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/marketing/marketing-pr-communications-manager.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "marketing/marketing-pr-communications-manager.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-podcast-strategist",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/marketing/marketing-podcast-strategist.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "marketing/marketing-podcast-strategist.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-video-optimization-specialist",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/marketing/marketing-video-optimization-specialist.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "marketing/marketing-video-optimization-specialist.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-short-video-editing-coach",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/marketing/marketing-short-video-editing-coach.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "marketing/marketing-short-video-editing-coach.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-developer-community-builder",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/marketing/marketing-developer-community-builder.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "marketing/marketing-developer-community-builder.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-cross-border-ecommerce",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/marketing/marketing-cross-border-ecommerce.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "marketing/marketing-cross-border-ecommerce.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-multi-platform-publisher",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/marketing/marketing-multi-platform-publisher.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "marketing/marketing-multi-platform-publisher.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-account-strategist",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/sales/sales-account-strategist.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "sales/sales-account-strategist.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-coach",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/sales/sales-coach.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "sales/sales-coach.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-deal-strategist",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/sales/sales-deal-strategist.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "sales/sales-deal-strategist.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-discovery-coach",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/sales/sales-discovery-coach.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "sales/sales-discovery-coach.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-engineer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/sales/sales-engineer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "sales/sales-engineer.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-outbound-strategist",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/sales/sales-outbound-strategist.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "sales/sales-outbound-strategist.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-pipeline-analyst",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/sales/sales-pipeline-analyst.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "sales/sales-pipeline-analyst.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-proposal-strategist",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/sales/sales-proposal-strategist.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "sales/sales-proposal-strategist.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-offer-lead-gen-strategist",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/sales/sales-offer-lead-gen-strategist.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "sales/sales-offer-lead-gen-strategist.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-analytics-reporter",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/support/support-analytics-reporter.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "support/support-analytics-reporter.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-executive-summary-generator",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/support/support-executive-summary-generator.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "support/support-executive-summary-generator.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-finance-tracker",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/support/support-finance-tracker.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "support/support-finance-tracker.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-support-responder",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/support/support-support-responder.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "support/support-support-responder.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-customer-success-manager",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/specialized/customer-success-manager.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "specialized/customer-success-manager.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-language-translator",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/specialized/language-translator.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "specialized/language-translator.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-recruitment-specialist",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/specialized/recruitment-specialist.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "specialized/recruitment-specialist.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-resume-tailor",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/specialized/resume-tailor.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "specialized/resume-tailor.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-hr-onboarding",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/specialized/hr-onboarding.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "specialized/hr-onboarding.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-operations-manager",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/specialized/operations-manager.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "specialized/operations-manager.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-business-strategist",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/specialized/business-strategist.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "specialized/business-strategist.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-ppc-strategist",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/paid-media/paid-media-ppc-strategist.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "paid-media/paid-media-ppc-strategist.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
+    },
+    {
+      "id": "agency-creative-strategist",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/paid-media/paid-media-creative-strategist.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "paid-media/paid-media-creative-strategist.md",
+      "license": "MIT",
+      "adaptation": "Curated English role-specific workflow and selected source capabilities; Vietnamese display copy with English companion translations; actual-tool, evidence and authorization constraints."
     }
-  ]
+  ],
+  "selection": {
+    "count": 100,
+    "method": "Editorial selection for broadly useful software, design, product, testing, marketing, sales and operations tasks. No per-agent popularity or usage ranking is supplied by the source README. This is not a measured top-100 popularity ranking.",
+    "existingAdaptations": 8,
+    "newAdaptations": 92
+  }
 }

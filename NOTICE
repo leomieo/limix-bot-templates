@@ -1,7 +1,7 @@
 Limix Bot templates contain modified ready-made bot templates from OpenMausBot by Milind Soni and contributors, licensed under Apache-2.0.
 Changes by Limix AI: Vietnamese descriptions and English instruction cores.
 
-The eight bots with IDs prefixed agency- are condensed adaptations of
+The 100 bots with IDs prefixed agency- are condensed adaptations of
 msitarzewski/agency-agents, copyright (c) 2025 AgentLand Contributors,
 licensed under the MIT License. The full original notice and license are
 preserved in licenses/agency-agents-MIT.txt. Exact source files and pinned

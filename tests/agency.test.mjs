@@ -13,7 +13,9 @@ test('agency adaptations preserve provenance, license and Vietnamese display cov
   assert.match(license, /Permission is hereby granted/);
   assert.match(license, /THE SOFTWARE IS PROVIDED "AS IS"/);
   const files = (await readdir(new URL('bots/', root))).filter(x => x.startsWith('agency-'));
-  assert.equal(manifest.templates.length, 8);
+  assert.equal(manifest.templates.length, 100);
+  assert.equal(new Set(manifest.templates.map(x => x.id)).size, 100);
+  assert.equal(new Set(manifest.templates.map(x => x.sourcePath)).size, 100);
   assert.deepEqual(manifest.templates.map(x => `${x.id}.json`).sort(), files.sort());
   for (const entry of manifest.templates) {
     const bot = JSON.parse(await read(`bots/${entry.id}.json`));
@@ -30,7 +32,12 @@ test('agency adaptations preserve provenance, license and Vietnamese display cov
     assert.equal(bot.title, translated('Vai trò'));
     assert.equal(bot.description, translated('Mô tả'));
     assert.equal(bot.tryAsking[0], translated('Ví dụ bắt đầu'));
-    assert.ok(en.includes(`## ${entry.id}\n`));
+    const english = en.split(`## ${entry.id}\n`)[1]?.split('\n## ')[0];
+    assert.ok(english, `Missing English copy for ${entry.id}`);
+    for (const label of ['Name:', 'Role:', 'Description:', 'Guidance:', 'Conversation starter:']) assert.ok(english.includes(label));
+    assert.ok(/[À-ỹ]/u.test(bot.description), `Expected Vietnamese display copy for ${entry.id}`);
+    assert.ok(bot.soul.length <= 8000);
+    assert.ok(!/[\u3400-\u9fffÀ-ỹ]/u.test(bot.soul), `Expected English operating instructions for ${entry.id}`);
     for (const label of ['Tên:', 'Vai trò:', 'Mô tả:', 'Hướng dẫn:', 'Ví dụ bắt đầu:']) assert.ok(section.includes(label));
   }
 });

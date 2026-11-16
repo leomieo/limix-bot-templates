@@ -2,11 +2,13 @@
 
 Kho Bot mẫu riêng cho Limix Bot. Trong ứng dụng, mở **Bản mẫu → Khám phá** để xem Bot và bấm **Cập nhật** để tải danh sách mới nhất.
 
-Kho này có sẵn 24 Bot mẫu, gồm 8 mẫu chọn lọc chuyển đổi từ Agency Agents: rà soát mã, nghiên cứu trải nghiệm, ưu tiên công việc, tổng hợp phản hồi, tài liệu kỹ thuật, khả năng tiếp cận, kiểm thử API và nhất quán thương hiệu. Mẫu nhóm Bot nằm tại [limix-bot-teams](https://github.com/leomieo/limix-bot-teams).
+Kho này có sẵn **116 Bot mẫu**, gồm 16 mẫu ban đầu và **100 mẫu chọn lọc chuyển đổi từ Agency Agents**. Mẫu nhóm Bot nằm tại [limix-bot-teams](https://github.com/leomieo/limix-bot-teams).
+
+100 mẫu Agency Agents bao phủ lập trình, bảo mật, thiết kế, sản phẩm, quản lý dự án, kiểm thử, nội dung, tiếp thị, bán hàng, hỗ trợ và vận hành. Đây là lựa chọn biên tập theo độ hữu ích cho công việc thường gặp, không phải bảng xếp hạng lượt dùng: kho nguồn không cung cấp số liệu mức độ phổ biến riêng từng mẫu trong danh sách giới thiệu. Xem [tiêu chí và danh sách](docs/agency-agents-selection.md).
 
 Các mẫu Agency Agents giữ định dạng phiên bản 1, hiển thị tên, vai trò, mô tả và câu gợi ý bằng tiếng Việt; chỉ dẫn vận hành bằng tiếng Anh. Ứng dụng hiện chưa chọn bản dịch nội dung mẫu theo ngôn ngữ giao diện. Bản tiếng Việt đầy đủ nằm tại [bản dịch](docs/agency-agents.vi.md); xem [kết quả kiểm tra và phần ứng dụng cần sửa](docs/localization-compatibility.md). Không thêm trường bản địa hóa mà ứng dụng chưa đọc được.
 
-Eight curated Agency Agents adaptations use the existing version-1 format with Vietnamese display copy. English display translations are preserved in docs/agency-agents.en.md until the application supports selecting template translations. Operating instructions stay English; replies follow the user's language. See [pinned sources](docs/agency-agents-sources.json) and the [upstream MIT notice](licenses/agency-agents-MIT.txt).
+100 curated Agency Agents adaptations use the existing version-1 format with Vietnamese display copy. English display translations are preserved in docs/agency-agents.en.md until the application supports selecting template translations. Operating instructions stay English; replies follow the user's language. This is an editorial selection for common tasks, not a measured popularity ranking. See [pinned sources](docs/agency-agents-sources.json) and the [upstream MIT notice](licenses/agency-agents-MIT.txt).
 
 ## Thêm Bot mẫu
 
@@ -37,7 +39,7 @@ Mẫu hợp lệ tối thiểu có cấu trúc sau.
 
 - 16 mẫu ban đầu dùng `description` tiếng Việt. Các mẫu `agency-*` hiển thị tiếng Việt trong ứng dụng, có bản tiếng Anh riêng trong tài liệu; tự chọn ngôn ngữ vẫn cần sửa ứng dụng.
 - `soul` là chỉ dẫn làm việc bằng tiếng Anh. Giữ đầy đủ quy tắc, giới hạn và yêu cầu xác minh.
-- Tên vai trò `title`, câu gợi ý `tryAsking`, ghi chú `notes` và prompt định kỳ dùng tiếng Anh mặc định. Bot vẫn có thể trả lời theo ngôn ngữ người dùng yêu cầu.
+- Với `agency-*`, tên, vai trò `title`, mô tả và câu gợi ý `tryAsking` dùng tiếng Việt. Bản tiếng Anh của nội dung hiển thị được lưu riêng, không ghép hai ngôn ngữ trên cùng thẻ. Chỉ dẫn vận hành, ghi chú kỹ thuật và prompt định kỳ dùng tiếng Anh. Bot trả lời theo ngôn ngữ người dùng yêu cầu.
 - `category` nhận một trong các giá trị `everyday`, `work`, `writing`, `design`, `sales`, `personal`.
 - Dùng `look` từ một mẫu có sẵn để chọn màu và hình hợp lệ.
 - `apps` và `skills` dùng tên kỹ thuật gốc. Bot mẫu chỉ đề xuất kết nối. Người dùng tự cấp quyền trong ứng dụng.

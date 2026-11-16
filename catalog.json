@@ -18,6 +18,66 @@
       "file": "bots/agency-accessibility-auditor.json"
     },
     {
+      "id": "agency-account-strategist",
+      "name": "Chiến lược khách hàng trọng điểm",
+      "title": "Chiến lược khách hàng trọng điểm",
+      "category": "sales",
+      "description": "Phân tích tài khoản khách hàng và xây dựng kế hoạch phát triển quan hệ.",
+      "try": "Lập kế hoạch tiếp cận cho tài khoản khách hàng này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-account-strategist.json"
+    },
+    {
+      "id": "agency-ai-engineer",
+      "name": "Kỹ sư trí tuệ nhân tạo",
+      "title": "Kỹ sư trí tuệ nhân tạo",
+      "category": "work",
+      "description": "Thiết kế tính năng AI có đánh giá chất lượng, chi phí và giới hạn rõ ràng.",
+      "try": "Đề xuất cách tích hợp AI vào tính năng này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-ai-engineer.json"
+    },
+    {
+      "id": "agency-analytics-reporter",
+      "name": "Báo cáo phân tích vận hành",
+      "title": "Báo cáo phân tích vận hành",
+      "category": "work",
+      "description": "Chuyển dữ liệu vận hành thành báo cáo rõ ràng và đề xuất hành động.",
+      "try": "Tạo báo cáo vận hành từ dữ liệu này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-analytics-reporter.json"
+    },
+    {
+      "id": "agency-api-platform-engineer",
+      "name": "Nền tảng API",
+      "title": "Nền tảng API",
+      "category": "work",
+      "description": "Thiết kế API ổn định, dễ tích hợp và có cơ chế quản lý phiên bản.",
+      "try": "Rà soát thiết kế API và hướng dẫn tích hợp này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-api-platform-engineer.json"
+    },
+    {
       "id": "agency-api-tester",
       "name": "kiểm thử API",
       "title": "Chuyên viên kiểm thử API",
@@ -31,6 +91,51 @@
       "apps": [],
       "routines": 0,
       "file": "bots/agency-api-tester.json"
+    },
+    {
+      "id": "agency-app-store-optimizer",
+      "name": "Tối ưu trang ứng dụng",
+      "title": "Tối ưu trang ứng dụng",
+      "category": "sales",
+      "description": "Cải thiện nội dung giới thiệu và khả năng được tìm thấy trên kho ứng dụng.",
+      "try": "Rà soát trang giới thiệu ứng dụng này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-app-store-optimizer.json"
+    },
+    {
+      "id": "agency-appsec-engineer",
+      "name": "Kỹ sư bảo mật",
+      "title": "Kỹ sư bảo mật",
+      "category": "work",
+      "description": "Phân tích bề mặt tấn công và đề xuất kiểm soát bảo mật phù hợp.",
+      "try": "Rà soát rủi ro bảo mật của hệ thống này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-appsec-engineer.json"
+    },
+    {
+      "id": "agency-backend-architect",
+      "name": "Kiến trúc hệ thống phía máy chủ",
+      "title": "Kiến trúc hệ thống phía máy chủ",
+      "category": "work",
+      "description": "Thiết kế dịch vụ, hợp đồng API và lưu trữ dữ liệu phù hợp với nhu cầu mở rộng.",
+      "try": "Thiết kế hệ thống phía máy chủ cho sản phẩm này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-backend-architect.json"
     },
     {
       "id": "agency-brand-guardian",
@@ -48,6 +153,36 @@
       "file": "bots/agency-brand-guardian.json"
     },
     {
+      "id": "agency-business-strategist",
+      "name": "Chiến lược kinh doanh",
+      "title": "Chiến lược kinh doanh",
+      "category": "work",
+      "description": "Phân tích mô hình kinh doanh, lựa chọn tăng trưởng và rủi ro thực thi.",
+      "try": "Đánh giá các hướng phát triển cho mô hình kinh doanh này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-business-strategist.json"
+    },
+    {
+      "id": "agency-coach",
+      "name": "Huấn luyện bán hàng",
+      "title": "Huấn luyện bán hàng",
+      "category": "sales",
+      "description": "Phân tích cuộc trao đổi bán hàng và hướng dẫn cải thiện cụ thể.",
+      "try": "Góp ý cuộc trao đổi bán hàng trong bản ghi này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-coach.json"
+    },
+    {
       "id": "agency-code-reviewer",
       "name": "rà soát mã",
       "title": "Chuyên viên rà soát mã",
@@ -61,6 +196,306 @@
       "apps": [],
       "routines": 0,
       "file": "bots/agency-code-reviewer.json"
+    },
+    {
+      "id": "agency-codebase-onboarding-engineer",
+      "name": "Làm quen kho mã",
+      "title": "Làm quen kho mã",
+      "category": "work",
+      "description": "Giải thích cấu trúc dự án và xây dựng lộ trình làm quen có dẫn chứng.",
+      "try": "Hướng dẫn tôi làm quen với kho mã này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-codebase-onboarding-engineer.json"
+    },
+    {
+      "id": "agency-content-creator",
+      "name": "Sáng tạo nội dung",
+      "title": "Sáng tạo nội dung",
+      "category": "writing",
+      "description": "Lập ý tưởng và soạn nội dung phù hợp đối tượng, kênh và giọng thương hiệu.",
+      "try": "Lập kế hoạch nội dung cho sản phẩm này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-content-creator.json"
+    },
+    {
+      "id": "agency-creative-strategist",
+      "name": "Ý tưởng sáng tạo quảng cáo",
+      "title": "Ý tưởng sáng tạo quảng cáo",
+      "category": "sales",
+      "description": "Thiết kế thông điệp và biến thể quảng cáo có giả thuyết thử nghiệm rõ ràng.",
+      "try": "Đề xuất các hướng sáng tạo quảng cáo cho chiến dịch này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-creative-strategist.json"
+    },
+    {
+      "id": "agency-cross-border-ecommerce",
+      "name": "Thương mại điện tử xuyên biên giới",
+      "title": "Thương mại điện tử xuyên biên giới",
+      "category": "sales",
+      "description": "Phân tích thị trường, kênh bán và vận hành bán hàng quốc tế.",
+      "try": "Đánh giá kế hoạch bán sản phẩm này ra thị trường quốc tế",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-cross-border-ecommerce.json"
+    },
+    {
+      "id": "agency-customer-success-manager",
+      "name": "Chăm sóc thành công khách hàng",
+      "title": "Chăm sóc thành công khách hàng",
+      "category": "sales",
+      "description": "Lập kế hoạch tiếp nhận, duy trì giá trị và xử lý rủi ro khách hàng.",
+      "try": "Lập kế hoạch giúp khách hàng này sử dụng sản phẩm hiệu quả",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-customer-success-manager.json"
+    },
+    {
+      "id": "agency-data-engineer",
+      "name": "Kỹ sư dữ liệu",
+      "title": "Kỹ sư dữ liệu",
+      "category": "work",
+      "description": "Thiết kế luồng dữ liệu có kiểm tra chất lượng, nguồn gốc và khả năng phục hồi.",
+      "try": "Thiết kế luồng nhập và xử lý dữ liệu này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-data-engineer.json"
+    },
+    {
+      "id": "agency-data-visualization-engineer",
+      "name": "Trực quan hóa dữ liệu",
+      "title": "Trực quan hóa dữ liệu",
+      "category": "work",
+      "description": "Chọn biểu đồ và trình bày dữ liệu rõ ràng, chính xác, dễ tiếp cận.",
+      "try": "Chọn biểu đồ phù hợp để giải thích bộ dữ liệu này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-data-visualization-engineer.json"
+    },
+    {
+      "id": "agency-database-optimizer",
+      "name": "Tối ưu cơ sở dữ liệu",
+      "title": "Tối ưu cơ sở dữ liệu",
+      "category": "work",
+      "description": "Phân tích truy vấn, chỉ mục và cấu trúc dữ liệu dựa trên bằng chứng thực tế.",
+      "try": "Tìm nguyên nhân truy vấn này chậm và đề xuất cách sửa",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-database-optimizer.json"
+    },
+    {
+      "id": "agency-deal-strategist",
+      "name": "Chiến lược thương vụ",
+      "title": "Chiến lược thương vụ",
+      "category": "sales",
+      "description": "Đánh giá rủi ro thương vụ và lập kế hoạch bước tiếp theo.",
+      "try": "Phân tích các rủi ro khiến thương vụ này bị chậm",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-deal-strategist.json"
+    },
+    {
+      "id": "agency-desktop-app-engineer",
+      "name": "Phát triển ứng dụng máy tính",
+      "title": "Phát triển ứng dụng máy tính",
+      "category": "work",
+      "description": "Thiết kế ứng dụng máy tính ổn định với tích hợp hệ điều hành phù hợp.",
+      "try": "Đề xuất kiến trúc cho ứng dụng máy tính này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-desktop-app-engineer.json"
+    },
+    {
+      "id": "agency-developer-community-builder",
+      "name": "Cộng đồng lập trình viên",
+      "title": "Cộng đồng lập trình viên",
+      "category": "sales",
+      "description": "Lập kế hoạch nội dung và hoạt động cộng đồng phục vụ lập trình viên.",
+      "try": "Xây dựng kế hoạch cộng đồng cho công cụ lập trình này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-developer-community-builder.json"
+    },
+    {
+      "id": "agency-developer-tooling-engineer",
+      "name": "Công cụ cho lập trình viên",
+      "title": "Công cụ cho lập trình viên",
+      "category": "work",
+      "description": "Cải thiện môi trường phát triển, quy trình xây dựng và trải nghiệm làm việc.",
+      "try": "Tìm các bước làm việc có thể rút gọn trong kho mã này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-developer-tooling-engineer.json"
+    },
+    {
+      "id": "agency-devops-automator",
+      "name": "Tự động hóa phát triển và vận hành",
+      "title": "Tự động hóa phát triển và vận hành",
+      "category": "work",
+      "description": "Thiết kế quy trình kiểm thử, triển khai và quản lý hạ tầng có thể kiểm chứng.",
+      "try": "Rà soát quy trình triển khai và đề xuất tự động hóa",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-devops-automator.json"
+    },
+    {
+      "id": "agency-discovery-coach",
+      "name": "Khám phá nhu cầu khách hàng",
+      "title": "Khám phá nhu cầu khách hàng",
+      "category": "sales",
+      "description": "Chuẩn bị câu hỏi tìm hiểu vấn đề và tiêu chí mua hàng.",
+      "try": "Soạn câu hỏi khám phá nhu cầu cho cuộc gặp này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-discovery-coach.json"
+    },
+    {
+      "id": "agency-dx-engineer",
+      "name": "Trải nghiệm nhà phát triển",
+      "title": "Trải nghiệm nhà phát triển",
+      "category": "work",
+      "description": "Cải thiện trải nghiệm tích hợp, tài liệu và sử dụng sản phẩm dành cho lập trình viên.",
+      "try": "Đánh giá trải nghiệm tích hợp API này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-dx-engineer.json"
+    },
+    {
+      "id": "agency-email-strategist",
+      "name": "Chiến lược email",
+      "title": "Chiến lược email",
+      "category": "sales",
+      "description": "Thiết kế chuỗi email phù hợp vòng đời khách hàng và khả năng gửi thư.",
+      "try": "Thiết kế chuỗi email chào mừng khách hàng mới",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-email-strategist.json"
+    },
+    {
+      "id": "agency-engineer",
+      "name": "Tư vấn kỹ thuật bán hàng",
+      "title": "Tư vấn kỹ thuật bán hàng",
+      "category": "sales",
+      "description": "Kết nối yêu cầu khách hàng với giải pháp kỹ thuật có thể chứng minh.",
+      "try": "Chuẩn bị buổi trình diễn kỹ thuật cho khách hàng này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-engineer.json"
+    },
+    {
+      "id": "agency-evidence-collector",
+      "name": "Thu thập bằng chứng kiểm thử",
+      "title": "Thu thập bằng chứng kiểm thử",
+      "category": "work",
+      "description": "Ghi lại bước tái hiện và bằng chứng để đánh giá lỗi chính xác.",
+      "try": "Chuẩn bị bằng chứng tái hiện cho lỗi giao diện này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-evidence-collector.json"
+    },
+    {
+      "id": "agency-executive-summary-generator",
+      "name": "Tóm tắt cho lãnh đạo",
+      "title": "Tóm tắt cho lãnh đạo",
+      "category": "writing",
+      "description": "Rút gọn tài liệu thành kết luận, rủi ro và quyết định cần đưa ra.",
+      "try": "Tóm tắt báo cáo này thành các điểm cần quyết định",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-executive-summary-generator.json"
+    },
+    {
+      "id": "agency-experiment-tracker",
+      "name": "Theo dõi thử nghiệm",
+      "title": "Theo dõi thử nghiệm",
+      "category": "work",
+      "description": "Thiết kế và ghi nhận giả thuyết, phép đo và kết luận của thử nghiệm.",
+      "try": "Lập kế hoạch theo dõi thử nghiệm sản phẩm này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-experiment-tracker.json"
     },
     {
       "id": "agency-feedback-synthesizer",
@@ -78,6 +513,741 @@
       "file": "bots/agency-feedback-synthesizer.json"
     },
     {
+      "id": "agency-finance-tracker",
+      "name": "Theo dõi thu chi",
+      "title": "Theo dõi thu chi",
+      "category": "personal",
+      "description": "Phân loại thu chi và làm rõ biến động ngân sách từ dữ liệu cung cấp.",
+      "try": "Phân loại các khoản thu chi và đối chiếu ngân sách này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-finance-tracker.json"
+    },
+    {
+      "id": "agency-finops-engineer",
+      "name": "Tối ưu chi phí hạ tầng",
+      "title": "Tối ưu chi phí hạ tầng",
+      "category": "work",
+      "description": "Phân tích chi phí đám mây theo nhu cầu sử dụng và đánh đổi vận hành.",
+      "try": "Phân tích hóa đơn hạ tầng và đề xuất tiết kiệm",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-finops-engineer.json"
+    },
+    {
+      "id": "agency-frontend-developer",
+      "name": "Phát triển giao diện web",
+      "title": "Phát triển giao diện web",
+      "category": "work",
+      "description": "Xây dựng giao diện web dễ dùng, tương thích nhiều màn hình và tối ưu hiệu năng.",
+      "try": "Xây dựng giao diện cho trang web này theo thiết kế của tôi",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-frontend-developer.json"
+    },
+    {
+      "id": "agency-git-workflow-master",
+      "name": "Quản lý quy trình Git",
+      "title": "Quản lý quy trình Git",
+      "category": "work",
+      "description": "Tổ chức nhánh, lịch sử thay đổi và xử lý xung đột trong kho mã.",
+      "try": "Đề xuất quy trình Git phù hợp cho nhóm của tôi",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-git-workflow-master.json"
+    },
+    {
+      "id": "agency-growth-hacker",
+      "name": "Thử nghiệm tăng trưởng",
+      "title": "Thử nghiệm tăng trưởng",
+      "category": "sales",
+      "description": "Xây dựng thử nghiệm tăng trưởng dựa trên hành trình khách hàng và dữ liệu.",
+      "try": "Đề xuất các thử nghiệm tăng trưởng cho sản phẩm này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-growth-hacker.json"
+    },
+    {
+      "id": "agency-hr-onboarding",
+      "name": "Tiếp nhận nhân viên mới",
+      "title": "Tiếp nhận nhân viên mới",
+      "category": "work",
+      "description": "Thiết kế lịch làm quen, tài liệu và trách nhiệm khi nhân viên gia nhập.",
+      "try": "Lập kế hoạch tiếp nhận nhân viên mới trong tháng đầu",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-hr-onboarding.json"
+    },
+    {
+      "id": "agency-i18n-engineer",
+      "name": "Kỹ sư đa ngôn ngữ",
+      "title": "Kỹ sư đa ngôn ngữ",
+      "category": "work",
+      "description": "Thiết kế bản địa hóa, định dạng vùng miền và cơ chế dự phòng bản dịch.",
+      "try": "Rà soát khả năng hỗ trợ tiếng Việt và tiếng Anh của ứng dụng",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-i18n-engineer.json"
+    },
+    {
+      "id": "agency-identity-access-engineer",
+      "name": "Danh tính và phân quyền",
+      "title": "Danh tính và phân quyền",
+      "category": "work",
+      "description": "Thiết kế đăng nhập, phân quyền và quản lý vòng đời tài khoản.",
+      "try": "Đánh giá mô hình đăng nhập và phân quyền này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-identity-access-engineer.json"
+    },
+    {
+      "id": "agency-image-prompt-engineer",
+      "name": "Soạn yêu cầu tạo ảnh",
+      "title": "Soạn yêu cầu tạo ảnh",
+      "category": "design",
+      "description": "Chuyển ý tưởng thành mô tả tạo ảnh cụ thể về bố cục, ánh sáng và phong cách.",
+      "try": "Viết mô tả tạo ảnh cho ý tưởng này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-image-prompt-engineer.json"
+    },
+    {
+      "id": "agency-incident-response-commander",
+      "name": "Điều phối xử lý sự cố",
+      "title": "Điều phối xử lý sự cố",
+      "category": "work",
+      "description": "Tổ chức xác minh, giảm tác động và phục hồi dịch vụ khi xảy ra sự cố.",
+      "try": "Lập kế hoạch ứng phó cho sự cố dịch vụ này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-incident-response-commander.json"
+    },
+    {
+      "id": "agency-inclusive-visuals-specialist",
+      "name": "Hình ảnh hòa nhập",
+      "title": "Hình ảnh hòa nhập",
+      "category": "design",
+      "description": "Rà soát cách thể hiện con người và khả năng tiếp cận trong nội dung hình ảnh.",
+      "try": "Đánh giá tính hòa nhập của bộ hình ảnh này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-inclusive-visuals-specialist.json"
+    },
+    {
+      "id": "agency-instagram-curator",
+      "name": "Nội dung Instagram",
+      "title": "Nội dung Instagram",
+      "category": "sales",
+      "description": "Thiết kế chủ đề, hình ảnh và lịch nội dung Instagram nhất quán.",
+      "try": "Lập lịch nội dung Instagram cho chiến dịch này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-instagram-curator.json"
+    },
+    {
+      "id": "agency-jira-workflow-steward",
+      "name": "Quy trình công việc Jira",
+      "title": "Quy trình công việc Jira",
+      "category": "work",
+      "description": "Tổ chức trạng thái, quy tắc và báo cáo công việc trong Jira.",
+      "try": "Rà soát quy trình Jira hiện tại của nhóm",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-jira-workflow-steward.json"
+    },
+    {
+      "id": "agency-language-translator",
+      "name": "Biên dịch ngôn ngữ",
+      "title": "Biên dịch ngôn ngữ",
+      "category": "writing",
+      "description": "Dịch nội dung đúng ý, nhất quán thuật ngữ và phù hợp người đọc.",
+      "try": "Dịch nội dung này sang tiếng Việt tự nhiên và đúng thuật ngữ",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-language-translator.json"
+    },
+    {
+      "id": "agency-linkedin-content-creator",
+      "name": "Nội dung LinkedIn",
+      "title": "Nội dung LinkedIn",
+      "category": "writing",
+      "description": "Soạn nội dung LinkedIn có góc nhìn rõ và phù hợp thương hiệu cá nhân.",
+      "try": "Viết bài LinkedIn từ ghi chú chuyên môn này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-linkedin-content-creator.json"
+    },
+    {
+      "id": "agency-manager",
+      "name": "Quản lý sản phẩm",
+      "title": "Quản lý sản phẩm",
+      "category": "work",
+      "description": "Làm rõ vấn đề, kết quả mong đợi và kế hoạch phát triển sản phẩm.",
+      "try": "Viết tài liệu yêu cầu sản phẩm từ ý tưởng này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-manager.json"
+    },
+    {
+      "id": "agency-meeting-notes-specialist",
+      "name": "Ghi chú và hành động sau họp",
+      "title": "Ghi chú và hành động sau họp",
+      "category": "work",
+      "description": "Tổng hợp cuộc họp thành quyết định, việc cần làm và vấn đề còn mở.",
+      "try": "Chuyển bản ghi cuộc họp này thành quyết định và công việc",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-meeting-notes-specialist.json"
+    },
+    {
+      "id": "agency-minimal-change-engineer",
+      "name": "Sửa mã với thay đổi tối thiểu",
+      "title": "Sửa mã với thay đổi tối thiểu",
+      "category": "work",
+      "description": "Sửa đúng nguyên nhân với phạm vi nhỏ, dễ đánh giá và kiểm tra.",
+      "try": "Sửa lỗi này với ít thay đổi nhất có thể",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-minimal-change-engineer.json"
+    },
+    {
+      "id": "agency-mobile-app-builder",
+      "name": "Phát triển ứng dụng di động",
+      "title": "Phát triển ứng dụng di động",
+      "category": "work",
+      "description": "Xây dựng ứng dụng di động với luồng tương tác, lưu trữ và hiệu năng phù hợp.",
+      "try": "Lập kế hoạch xây dựng ứng dụng di động này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-mobile-app-builder.json"
+    },
+    {
+      "id": "agency-mobile-release-engineer",
+      "name": "Chuẩn bị phát hành di động",
+      "title": "Chuẩn bị phát hành di động",
+      "category": "work",
+      "description": "Rà soát bản dựng, kênh thử nghiệm và kế hoạch phát hành ứng dụng di động.",
+      "try": "Lập danh sách kiểm tra trước khi phát hành ứng dụng này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-mobile-release-engineer.json"
+    },
+    {
+      "id": "agency-multi-platform-publisher",
+      "name": "Nội dung đa nền tảng",
+      "title": "Nội dung đa nền tảng",
+      "category": "sales",
+      "description": "Điều chỉnh một nội dung gốc thành các phiên bản phù hợp từng kênh.",
+      "try": "Chuyển nội dung này thành bài cho ba nền tảng",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-multi-platform-publisher.json"
+    },
+    {
+      "id": "agency-offer-lead-gen-strategist",
+      "name": "Thiết kế đề nghị và tạo nhu cầu",
+      "title": "Thiết kế đề nghị và tạo nhu cầu",
+      "category": "sales",
+      "description": "Xây dựng đề nghị giá trị và thử nghiệm thu hút khách hàng tiềm năng.",
+      "try": "Đề xuất lời chào hàng và kế hoạch tạo nhu cầu",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-offer-lead-gen-strategist.json"
+    },
+    {
+      "id": "agency-operations-manager",
+      "name": "Quản lý vận hành",
+      "title": "Quản lý vận hành",
+      "category": "work",
+      "description": "Chuẩn hóa quy trình, trách nhiệm và cách theo dõi công việc vận hành.",
+      "try": "Rà soát quy trình vận hành và đề xuất cải tiến",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-operations-manager.json"
+    },
+    {
+      "id": "agency-outbound-strategist",
+      "name": "Chiến lược tiếp cận khách hàng",
+      "title": "Chiến lược tiếp cận khách hàng",
+      "category": "sales",
+      "description": "Xác định nhóm khách hàng và soạn kế hoạch tiếp cận phù hợp.",
+      "try": "Lập kế hoạch tiếp cận khách hàng cho dịch vụ này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-outbound-strategist.json"
+    },
+    {
+      "id": "agency-payments-billing-engineer",
+      "name": "Thanh toán và tính phí",
+      "title": "Thanh toán và tính phí",
+      "category": "work",
+      "description": "Thiết kế luồng thanh toán, đối soát và xử lý lỗi giao dịch.",
+      "try": "Rà soát thiết kế thanh toán định kỳ của sản phẩm này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-payments-billing-engineer.json"
+    },
+    {
+      "id": "agency-performance-benchmarker",
+      "name": "Đo kiểm hiệu năng",
+      "title": "Đo kiểm hiệu năng",
+      "category": "work",
+      "description": "Thiết kế phép đo hiệu năng có điều kiện thử nghiệm và kết quả tái lập.",
+      "try": "Lập kế hoạch đo hiệu năng cho dịch vụ này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-performance-benchmarker.json"
+    },
+    {
+      "id": "agency-persona-walkthrough",
+      "name": "Đánh giá theo chân dung người dùng",
+      "title": "Đánh giá theo chân dung người dùng",
+      "category": "design",
+      "description": "Đi qua luồng sử dụng từ các nhu cầu và hạn chế khác nhau.",
+      "try": "Đánh giá luồng này từ góc nhìn người dùng mới",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-persona-walkthrough.json"
+    },
+    {
+      "id": "agency-pipeline-analyst",
+      "name": "Phân tích cơ hội bán hàng",
+      "title": "Phân tích cơ hội bán hàng",
+      "category": "sales",
+      "description": "Phân tích luồng cơ hội, tỷ lệ chuyển đổi và rủi ro dự báo doanh thu.",
+      "try": "Phân tích danh sách cơ hội bán hàng này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-pipeline-analyst.json"
+    },
+    {
+      "id": "agency-platform-engineer",
+      "name": "Nền tảng phát triển nội bộ",
+      "title": "Nền tảng phát triển nội bộ",
+      "category": "work",
+      "description": "Thiết kế nền tảng giúp nhóm phát triển tự phục vụ an toàn và hiệu quả.",
+      "try": "Đề xuất nền tảng phát triển nội bộ cho nhóm này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-platform-engineer.json"
+    },
+    {
+      "id": "agency-podcast-strategist",
+      "name": "Chiến lược podcast",
+      "title": "Chiến lược podcast",
+      "category": "writing",
+      "description": "Thiết kế chủ đề, cấu trúc tập và kế hoạch phát triển podcast.",
+      "try": "Lập kế hoạch mùa podcast cho chủ đề này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-podcast-strategist.json"
+    },
+    {
+      "id": "agency-ppc-strategist",
+      "name": "Chiến lược quảng cáo tìm kiếm",
+      "title": "Chiến lược quảng cáo tìm kiếm",
+      "category": "sales",
+      "description": "Lập kế hoạch quảng cáo tìm kiếm theo mục tiêu, ngân sách và dữ liệu chuyển đổi.",
+      "try": "Đề xuất kế hoạch quảng cáo tìm kiếm cho sản phẩm này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-ppc-strategist.json"
+    },
+    {
+      "id": "agency-pr-communications-manager",
+      "name": "Truyền thông và quan hệ báo chí",
+      "title": "Truyền thông và quan hệ báo chí",
+      "category": "writing",
+      "description": "Soạn thông điệp, tài liệu báo chí và kế hoạch truyền thông có kiểm chứng.",
+      "try": "Soạn thông cáo báo chí từ thông tin ra mắt này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-pr-communications-manager.json"
+    },
+    {
+      "id": "agency-privacy-engineer",
+      "name": "Kỹ sư quyền riêng tư",
+      "title": "Kỹ sư quyền riêng tư",
+      "category": "work",
+      "description": "Thiết kế giảm thiểu dữ liệu cá nhân và kiểm soát vòng đời thông tin.",
+      "try": "Rà soát cách ứng dụng thu thập và lưu dữ liệu cá nhân",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-privacy-engineer.json"
+    },
+    {
+      "id": "agency-project-manager-senior",
+      "name": "Quản lý dự án tổng thể",
+      "title": "Quản lý dự án tổng thể",
+      "category": "work",
+      "description": "Lập kế hoạch phạm vi, nguồn lực và tiến độ có đánh đổi rõ ràng.",
+      "try": "Đánh giá tiến độ và rủi ro của kế hoạch dự án này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-project-manager-senior.json"
+    },
+    {
+      "id": "agency-project-shepherd",
+      "name": "Điều phối dự án",
+      "title": "Điều phối dự án",
+      "category": "work",
+      "description": "Theo dõi mục tiêu, phụ thuộc, rủi ro và bước tiếp theo của dự án.",
+      "try": "Lập kế hoạch triển khai dự án này theo từng mốc",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-project-shepherd.json"
+    },
+    {
+      "id": "agency-prompt-engineer",
+      "name": "Thiết kế chỉ dẫn AI",
+      "title": "Thiết kế chỉ dẫn AI",
+      "category": "work",
+      "description": "Xây dựng và đánh giá chỉ dẫn AI theo tác vụ, dữ liệu và tiêu chí cụ thể.",
+      "try": "Cải thiện chỉ dẫn AI này và đề xuất cách đánh giá",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-prompt-engineer.json"
+    },
+    {
+      "id": "agency-proposal-strategist",
+      "name": "Soạn đề xuất bán hàng",
+      "title": "Soạn đề xuất bán hàng",
+      "category": "sales",
+      "description": "Biên soạn đề xuất giải pháp gắn với mục tiêu và tiêu chí khách hàng.",
+      "try": "Soạn đề xuất giải pháp từ yêu cầu khách hàng này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-proposal-strategist.json"
+    },
+    {
+      "id": "agency-rag-pipeline-engineer",
+      "name": "Truy xuất tài liệu cho AI",
+      "title": "Truy xuất tài liệu cho AI",
+      "category": "work",
+      "description": "Thiết kế hệ thống truy xuất tài liệu giúp AI trả lời có bằng chứng.",
+      "try": "Thiết kế hệ thống hỏi đáp dựa trên tài liệu nội bộ",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-rag-pipeline-engineer.json"
+    },
+    {
+      "id": "agency-rapid-prototyper",
+      "name": "Tạo nguyên mẫu nhanh",
+      "title": "Tạo nguyên mẫu nhanh",
+      "category": "work",
+      "description": "Biến ý tưởng thành nguyên mẫu nhỏ để kiểm chứng giả định quan trọng.",
+      "try": "Tạo nguyên mẫu tối thiểu để kiểm chứng ý tưởng này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-rapid-prototyper.json"
+    },
+    {
+      "id": "agency-reality-checker",
+      "name": "Xác minh mức độ sẵn sàng",
+      "title": "Xác minh mức độ sẵn sàng",
+      "category": "work",
+      "description": "Đối chiếu tuyên bố hoàn thành với bằng chứng và tiêu chí chấp nhận.",
+      "try": "Kiểm tra tính năng này đã thực sự sẵn sàng chưa",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-reality-checker.json"
+    },
+    {
+      "id": "agency-realtime-collaboration-engineer",
+      "name": "Cộng tác thời gian thực",
+      "title": "Cộng tác thời gian thực",
+      "category": "work",
+      "description": "Thiết kế đồng bộ, xử lý xung đột và trạng thái kết nối cho ứng dụng cộng tác.",
+      "try": "Thiết kế tính năng cùng chỉnh sửa tài liệu này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-realtime-collaboration-engineer.json"
+    },
+    {
+      "id": "agency-recruitment-specialist",
+      "name": "Hỗ trợ tuyển dụng",
+      "title": "Hỗ trợ tuyển dụng",
+      "category": "work",
+      "description": "Soạn tiêu chí, câu hỏi và kế hoạch tuyển dụng dựa trên yêu cầu công việc.",
+      "try": "Soạn kế hoạch tuyển dụng cho vị trí này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-recruitment-specialist.json"
+    },
+    {
+      "id": "agency-reddit-community-builder",
+      "name": "Xây dựng cộng đồng Reddit",
+      "title": "Xây dựng cộng đồng Reddit",
+      "category": "sales",
+      "description": "Lập kế hoạch tham gia Reddit hữu ích và tuân thủ quy tắc cộng đồng.",
+      "try": "Đề xuất cách tham gia cộng đồng Reddit cho sản phẩm này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-reddit-community-builder.json"
+    },
+    {
+      "id": "agency-resume-tailor",
+      "name": "Điều chỉnh hồ sơ ứng tuyển",
+      "title": "Điều chỉnh hồ sơ ứng tuyển",
+      "category": "writing",
+      "description": "Làm rõ kinh nghiệm phù hợp vị trí mà không bịa thành tích.",
+      "try": "Điều chỉnh hồ sơ của tôi theo mô tả công việc này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-resume-tailor.json"
+    },
+    {
+      "id": "agency-search-relevance-engineer",
+      "name": "Chất lượng tìm kiếm",
+      "title": "Chất lượng tìm kiếm",
+      "category": "work",
+      "description": "Cải thiện truy xuất và xếp hạng kết quả tìm kiếm bằng đánh giá thực tế.",
+      "try": "Đề xuất cách đo và cải thiện chất lượng tìm kiếm này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-search-relevance-engineer.json"
+    },
+    {
+      "id": "agency-seo-specialist",
+      "name": "Tối ưu tìm kiếm tự nhiên",
+      "title": "Tối ưu tìm kiếm tự nhiên",
+      "category": "sales",
+      "description": "Phân tích ý định tìm kiếm, nội dung và vấn đề kỹ thuật của website.",
+      "try": "Rà soát website này và đề xuất cải thiện tìm kiếm tự nhiên",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-seo-specialist.json"
+    },
+    {
+      "id": "agency-short-video-editing-coach",
+      "name": "Hướng dẫn dựng video ngắn",
+      "title": "Hướng dẫn dựng video ngắn",
+      "category": "writing",
+      "description": "Đề xuất nhịp dựng, phụ đề và cấu trúc video ngắn dễ theo dõi.",
+      "try": "Góp ý kịch bản dựng cho video ngắn này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-short-video-editing-coach.json"
+    },
+    {
+      "id": "agency-social-media-strategist",
+      "name": "Chiến lược mạng xã hội",
+      "title": "Chiến lược mạng xã hội",
+      "category": "sales",
+      "description": "Lập kế hoạch kênh, nội dung và đo lường mạng xã hội theo mục tiêu.",
+      "try": "Xây dựng chiến lược mạng xã hội cho thương hiệu này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-social-media-strategist.json"
+    },
+    {
+      "id": "agency-software-architect",
+      "name": "Kiến trúc sư phần mềm",
+      "title": "Kiến trúc sư phần mềm",
+      "category": "work",
+      "description": "Phân tích yêu cầu và lựa chọn kiến trúc với đánh đổi, rủi ro và lộ trình rõ ràng.",
+      "try": "Đánh giá kiến trúc hiện tại và các phương án cải tiến",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-software-architect.json"
+    },
+    {
       "id": "agency-sprint-prioritizer",
       "name": "ưu tiên công việc",
       "title": "Chuyên viên ưu tiên công việc",
@@ -91,6 +1261,36 @@
       "apps": [],
       "routines": 0,
       "file": "bots/agency-sprint-prioritizer.json"
+    },
+    {
+      "id": "agency-sre",
+      "name": "Độ tin cậy hệ thống",
+      "title": "Độ tin cậy hệ thống",
+      "category": "work",
+      "description": "Xây dựng mục tiêu độ tin cậy, cảnh báo và quy trình ứng phó sự cố.",
+      "try": "Đề xuất mục tiêu độ tin cậy và cảnh báo cho dịch vụ này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-sre.json"
+    },
+    {
+      "id": "agency-support-responder",
+      "name": "Soạn phản hồi hỗ trợ",
+      "title": "Soạn phản hồi hỗ trợ",
+      "category": "work",
+      "description": "Soạn câu trả lời hỗ trợ khách hàng rõ ràng, đồng cảm và đúng chính sách.",
+      "try": "Soạn phản hồi cho yêu cầu hỗ trợ này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-support-responder.json"
     },
     {
       "id": "agency-technical-writer",
@@ -108,6 +1308,141 @@
       "file": "bots/agency-technical-writer.json"
     },
     {
+      "id": "agency-test-automation-engineer",
+      "name": "Tự động hóa kiểm thử",
+      "title": "Tự động hóa kiểm thử",
+      "category": "work",
+      "description": "Xây dựng bộ kiểm thử đáng tin cậy cho các hành vi quan trọng.",
+      "try": "Đề xuất chiến lược tự động hóa kiểm thử cho dự án này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-test-automation-engineer.json"
+    },
+    {
+      "id": "agency-test-results-analyzer",
+      "name": "Phân tích kết quả kiểm thử",
+      "title": "Phân tích kết quả kiểm thử",
+      "category": "work",
+      "description": "Tìm mẫu lỗi, nguyên nhân khả dĩ và ưu tiên khắc phục từ báo cáo kiểm thử.",
+      "try": "Phân tích báo cáo kiểm thử và nhóm các lỗi cần xử lý",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-test-results-analyzer.json"
+    },
+    {
+      "id": "agency-tiktok-strategist",
+      "name": "Chiến lược TikTok",
+      "title": "Chiến lược TikTok",
+      "category": "sales",
+      "description": "Xây dựng ý tưởng video ngắn và thử nghiệm nội dung có mục tiêu.",
+      "try": "Đề xuất loạt video TikTok cho sản phẩm này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-tiktok-strategist.json"
+    },
+    {
+      "id": "agency-tool-evaluator",
+      "name": "Đánh giá công cụ",
+      "title": "Đánh giá công cụ",
+      "category": "work",
+      "description": "So sánh công cụ theo nhu cầu, chi phí và kết quả thử nghiệm.",
+      "try": "So sánh các công cụ này cho nhóm của tôi",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-tool-evaluator.json"
+    },
+    {
+      "id": "agency-trend-researcher",
+      "name": "Nghiên cứu xu hướng sản phẩm",
+      "title": "Nghiên cứu xu hướng sản phẩm",
+      "category": "work",
+      "description": "Phân tích tín hiệu thị trường và tác động có thể có với sản phẩm.",
+      "try": "Nghiên cứu xu hướng liên quan đến sản phẩm này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-trend-researcher.json"
+    },
+    {
+      "id": "agency-twitter-engager",
+      "name": "Nội dung và cộng đồng X",
+      "title": "Nội dung và cộng đồng X",
+      "category": "sales",
+      "description": "Soạn bài và kế hoạch trao đổi trên X theo giọng thương hiệu.",
+      "try": "Soạn chuỗi bài trên X cho chủ đề này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-twitter-engager.json"
+    },
+    {
+      "id": "agency-ui-designer",
+      "name": "Thiết kế giao diện",
+      "title": "Thiết kế giao diện",
+      "category": "design",
+      "description": "Thiết kế bố cục, thành phần và trạng thái tương tác nhất quán.",
+      "try": "Đề xuất giao diện cho luồng sử dụng này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-ui-designer.json"
+    },
+    {
+      "id": "agency-ui-finish-gate-reviewer",
+      "name": "Rà soát hoàn thiện giao diện",
+      "title": "Rà soát hoàn thiện giao diện",
+      "category": "design",
+      "description": "Kiểm tra độ nhất quán và các lỗi giao diện trước khi bàn giao.",
+      "try": "Rà soát mức độ hoàn thiện của giao diện này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-ui-finish-gate-reviewer.json"
+    },
+    {
+      "id": "agency-ux-architect",
+      "name": "Kiến trúc trải nghiệm",
+      "title": "Kiến trúc trải nghiệm",
+      "category": "design",
+      "description": "Tổ chức thông tin và luồng sử dụng theo mục tiêu thực tế của người dùng.",
+      "try": "Rà soát cấu trúc thông tin và luồng thao tác này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-ux-architect.json"
+    },
+    {
       "id": "agency-ux-researcher",
       "name": "nghiên cứu trải nghiệm",
       "title": "Chuyên viên nghiên cứu trải nghiệm",
@@ -121,6 +1456,51 @@
       "apps": [],
       "routines": 0,
       "file": "bots/agency-ux-researcher.json"
+    },
+    {
+      "id": "agency-video-optimization-specialist",
+      "name": "Tối ưu nội dung video",
+      "title": "Tối ưu nội dung video",
+      "category": "sales",
+      "description": "Phân tích tiêu đề, hình đại diện và giữ chân người xem dựa trên dữ liệu.",
+      "try": "Đề xuất cải thiện hiệu quả cho video này",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-video-optimization-specialist.json"
+    },
+    {
+      "id": "agency-visual-storyteller",
+      "name": "Kể chuyện bằng hình ảnh",
+      "title": "Kể chuyện bằng hình ảnh",
+      "category": "design",
+      "description": "Biến nội dung phức tạp thành câu chuyện trực quan có cấu trúc.",
+      "try": "Đề xuất cách kể câu chuyện này bằng hình ảnh",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-visual-storyteller.json"
+    },
+    {
+      "id": "agency-workflow-optimizer",
+      "name": "Tối ưu quy trình làm việc",
+      "title": "Tối ưu quy trình làm việc",
+      "category": "work",
+      "description": "Tìm điểm nghẽn và đề xuất cải tiến quy trình có cách đo rõ ràng.",
+      "try": "Phân tích quy trình này và đề xuất giảm thời gian chờ",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-workflow-optimizer.json"
     },
     {
       "id": "analyst",
