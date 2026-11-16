@@ -4,11 +4,11 @@
   "bots": [
     {
       "id": "agency-accessibility-auditor",
-      "name": "Accessibility Auditor",
-      "title": "Accessibility Auditor",
+      "name": "kiểm tra khả năng tiếp cận",
+      "title": "Chuyên viên kiểm tra khả năng tiếp cận",
       "category": "design",
-      "description": "Find interface barriers through standards-based review and manual interaction evidence.",
-      "try": "Audit this interface for keyboard and screen-reader barriers",
+      "description": "Tìm rào cản giao diện qua đối chiếu tiêu chuẩn và bằng chứng kiểm tra tương tác thủ công.",
+      "try": "Kiểm tra rào cản khi dùng bàn phím và trình đọc màn hình trên giao diện này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -19,11 +19,11 @@
     },
     {
       "id": "agency-api-tester",
-      "name": "API Tester",
-      "title": "API Tester",
+      "name": "kiểm thử API",
+      "title": "Chuyên viên kiểm thử API",
       "category": "work",
-      "description": "Validate API contracts, authorization, error handling and performance in an approved test environment.",
-      "try": "Create a test plan for these API endpoints",
+      "description": "Kiểm tra hợp đồng API, phân quyền, xử lý lỗi và hiệu năng trong môi trường thử nghiệm được phép.",
+      "try": "Lập kế hoạch kiểm thử các điểm truy cập API này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -34,11 +34,11 @@
     },
     {
       "id": "agency-brand-guardian",
-      "name": "Brand Guardian",
-      "title": "Brand Guardian",
+      "name": "nhất quán thương hiệu",
+      "title": "Chuyên viên nhất quán thương hiệu",
       "category": "design",
-      "description": "Develop brand foundations and audit voice, visual identity and consistency across channels.",
-      "try": "Audit these materials against our brand guidelines",
+      "description": "Xây dựng nền tảng thương hiệu và kiểm tra giọng điệu, nhận diện, tính nhất quán giữa các kênh.",
+      "try": "Đối chiếu các tài liệu này với hướng dẫn thương hiệu của chúng tôi",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -49,11 +49,11 @@
     },
     {
       "id": "agency-code-reviewer",
-      "name": "Code Reviewer",
-      "title": "Code Reviewer",
+      "name": "rà soát mã",
+      "title": "Chuyên viên rà soát mã",
       "category": "work",
-      "description": "Review code for correctness, security, maintainability and meaningful test coverage.",
-      "try": "Review this diff and rank the actionable findings",
+      "description": "Rà soát mã về tính đúng đắn, bảo mật, khả năng bảo trì và độ bao phủ kiểm thử cần thiết.",
+      "try": "Rà soát thay đổi này và xếp hạng các vấn đề cần sửa",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -64,11 +64,11 @@
     },
     {
       "id": "agency-feedback-synthesizer",
-      "name": "Feedback Synthesizer",
-      "title": "Feedback Synthesizer",
+      "name": "tổng hợp phản hồi",
+      "title": "Chuyên viên tổng hợp phản hồi",
       "category": "work",
-      "description": "Turn customer feedback into traceable themes and product priorities.",
-      "try": "Group these customer comments into themes and recommended actions",
+      "description": "Chuyển phản hồi khách hàng thành các chủ đề có nguồn đối chiếu và thứ tự ưu tiên sản phẩm.",
+      "try": "Nhóm các phản hồi khách hàng này thành chủ đề và đề xuất hành động",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -79,11 +79,11 @@
     },
     {
       "id": "agency-sprint-prioritizer",
-      "name": "Sprint Prioritizer",
-      "title": "Sprint Prioritizer",
+      "name": "ưu tiên công việc",
+      "title": "Chuyên viên ưu tiên công việc",
       "category": "work",
-      "description": "Prioritize a product backlog using impact, evidence, effort, capacity and dependencies.",
-      "try": "Prioritize this backlog for our next two-week sprint",
+      "description": "Ưu tiên danh sách công việc theo tác động, bằng chứng, công sức, năng lực nhóm và phụ thuộc.",
+      "try": "Ưu tiên danh sách công việc cho đợt phát triển hai tuần tới",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -94,11 +94,11 @@
     },
     {
       "id": "agency-technical-writer",
-      "name": "Technical Writer",
-      "title": "Technical Writer",
+      "name": "tài liệu kỹ thuật",
+      "title": "Chuyên viên tài liệu kỹ thuật",
       "category": "writing",
-      "description": "Write usable tutorials, how-to guides, reference material and explanations grounded in the software.",
-      "try": "Write a quick-start guide from this repository",
+      "description": "Soạn bài hướng dẫn, tài liệu tra cứu và giải thích kỹ thuật bám sát phần mềm thực tế.",
+      "try": "Viết hướng dẫn bắt đầu nhanh từ kho mã này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -109,11 +109,11 @@
     },
     {
       "id": "agency-ux-researcher",
-      "name": "UX Researcher",
-      "title": "UX Researcher",
+      "name": "nghiên cứu trải nghiệm",
+      "title": "Chuyên viên nghiên cứu trải nghiệm",
       "category": "design",
-      "description": "Plan inclusive user research and turn evidence into practical design recommendations.",
-      "try": "Build a usability study plan for this signup flow",
+      "description": "Lập kế hoạch nghiên cứu người dùng toàn diện và chuyển bằng chứng thành đề xuất thiết kế thực tế.",
+      "try": "Lập kế hoạch kiểm tra tính dễ dùng cho luồng đăng ký này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"

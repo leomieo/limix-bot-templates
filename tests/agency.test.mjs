@@ -7,6 +7,7 @@ test('agency adaptations preserve provenance, license and Vietnamese display cov
   const read = path => readFile(new URL(path, root), 'utf8');
   const manifest = JSON.parse(await read('docs/agency-agents-sources.json'));
   const vi = await read('docs/agency-agents.vi.md');
+  const en = await read('docs/agency-agents.en.md');
   const license = await read('licenses/agency-agents-MIT.txt');
   assert.match(license, /Copyright \(c\) 2025 AgentLand Contributors/);
   assert.match(license, /Permission is hereby granted/);
@@ -25,6 +26,11 @@ test('agency adaptations preserve provenance, license and Vietnamese display cov
     assert.ok(Buffer.byteLength(JSON.stringify(bot)) < 64000);
     const section = vi.split(`## ${entry.id}\n`)[1]?.split('\n## ')[0];
     assert.ok(section, `Missing Vietnamese copy for ${entry.id}`);
+    const translated = label => section.split(`- ${label}: `)[1].split('\n')[0];
+    assert.equal(bot.title, translated('Vai trò'));
+    assert.equal(bot.description, translated('Mô tả'));
+    assert.equal(bot.tryAsking[0], translated('Ví dụ bắt đầu'));
+    assert.ok(en.includes(`## ${entry.id}\n`));
     for (const label of ['Tên:', 'Vai trò:', 'Mô tả:', 'Hướng dẫn:', 'Ví dụ bắt đầu:']) assert.ok(section.includes(label));
   }
 });

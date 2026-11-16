@@ -4,9 +4,9 @@ Kho Bot mẫu riêng cho Limix Bot. Trong ứng dụng, mở **Bản mẫu → K
 
 Kho này có sẵn 24 Bot mẫu, gồm 8 mẫu chọn lọc chuyển đổi từ Agency Agents: rà soát mã, nghiên cứu trải nghiệm, ưu tiên công việc, tổng hợp phản hồi, tài liệu kỹ thuật, khả năng tiếp cận, kiểm thử API và nhất quán thương hiệu. Mẫu nhóm Bot nằm tại [limix-bot-teams](https://github.com/leomieo/limix-bot-teams).
 
-Các mẫu Agency Agents giữ định dạng phiên bản 1 và dùng bản tiếng Anh dự phòng. Ứng dụng hiện chưa chọn bản dịch nội dung mẫu theo ngôn ngữ giao diện. Bản tiếng Việt đầy đủ nằm tại [bản dịch](docs/agency-agents.vi.md); xem [kết quả kiểm tra và phần ứng dụng cần sửa](docs/localization-compatibility.md). Không thêm trường bản địa hóa mà ứng dụng chưa đọc được.
+Các mẫu Agency Agents giữ định dạng phiên bản 1, hiển thị tên, vai trò, mô tả và câu gợi ý bằng tiếng Việt; chỉ dẫn vận hành bằng tiếng Anh. Ứng dụng hiện chưa chọn bản dịch nội dung mẫu theo ngôn ngữ giao diện. Bản tiếng Việt đầy đủ nằm tại [bản dịch](docs/agency-agents.vi.md); xem [kết quả kiểm tra và phần ứng dụng cần sửa](docs/localization-compatibility.md). Không thêm trường bản địa hóa mà ứng dụng chưa đọc được.
 
-Eight curated Agency Agents adaptations use the existing version-1 format with English fallback copy. Vietnamese display copy is documented separately until the application supports selecting template translations. Operating instructions stay English; replies follow the user's language. See [pinned sources](docs/agency-agents-sources.json) and the [upstream MIT notice](licenses/agency-agents-MIT.txt).
+Eight curated Agency Agents adaptations use the existing version-1 format with Vietnamese display copy. English display translations are preserved in docs/agency-agents.en.md until the application supports selecting template translations. Operating instructions stay English; replies follow the user's language. See [pinned sources](docs/agency-agents-sources.json) and the [upstream MIT notice](licenses/agency-agents-MIT.txt).
 
 ## Thêm Bot mẫu
 
@@ -35,7 +35,7 @@ Mẫu hợp lệ tối thiểu có cấu trúc sau.
 
 ## Quy ước Anh–Việt
 
-- 16 mẫu ban đầu dùng `description` tiếng Việt. Các mẫu `agency-*` có đủ nội dung giới thiệu Anh–Việt, nhưng bản tiếng Việt hiện nằm trong tài liệu; trường nạp vào ứng dụng dùng tiếng Anh dự phòng.
+- 16 mẫu ban đầu dùng `description` tiếng Việt. Các mẫu `agency-*` hiển thị tiếng Việt trong ứng dụng, có bản tiếng Anh riêng trong tài liệu; tự chọn ngôn ngữ vẫn cần sửa ứng dụng.
 - `soul` là chỉ dẫn làm việc bằng tiếng Anh. Giữ đầy đủ quy tắc, giới hạn và yêu cầu xác minh.
 - Tên vai trò `title`, câu gợi ý `tryAsking`, ghi chú `notes` và prompt định kỳ dùng tiếng Anh mặc định. Bot vẫn có thể trả lời theo ngôn ngữ người dùng yêu cầu.
 - `category` nhận một trong các giá trị `everyday`, `work`, `writing`, `design`, `sales`, `personal`.
