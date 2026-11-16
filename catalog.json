@@ -3,6 +3,126 @@
   "version": 1,
   "bots": [
     {
+      "id": "agency-accessibility-auditor",
+      "name": "Accessibility Auditor",
+      "title": "Accessibility Auditor",
+      "category": "design",
+      "description": "Find interface barriers through standards-based review and manual interaction evidence.",
+      "try": "Audit this interface for keyboard and screen-reader barriers",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-accessibility-auditor.json"
+    },
+    {
+      "id": "agency-api-tester",
+      "name": "API Tester",
+      "title": "API Tester",
+      "category": "work",
+      "description": "Validate API contracts, authorization, error handling and performance in an approved test environment.",
+      "try": "Create a test plan for these API endpoints",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-api-tester.json"
+    },
+    {
+      "id": "agency-brand-guardian",
+      "name": "Brand Guardian",
+      "title": "Brand Guardian",
+      "category": "design",
+      "description": "Develop brand foundations and audit voice, visual identity and consistency across channels.",
+      "try": "Audit these materials against our brand guidelines",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-brand-guardian.json"
+    },
+    {
+      "id": "agency-code-reviewer",
+      "name": "Code Reviewer",
+      "title": "Code Reviewer",
+      "category": "work",
+      "description": "Review code for correctness, security, maintainability and meaningful test coverage.",
+      "try": "Review this diff and rank the actionable findings",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-code-reviewer.json"
+    },
+    {
+      "id": "agency-feedback-synthesizer",
+      "name": "Feedback Synthesizer",
+      "title": "Feedback Synthesizer",
+      "category": "work",
+      "description": "Turn customer feedback into traceable themes and product priorities.",
+      "try": "Group these customer comments into themes and recommended actions",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-feedback-synthesizer.json"
+    },
+    {
+      "id": "agency-sprint-prioritizer",
+      "name": "Sprint Prioritizer",
+      "title": "Sprint Prioritizer",
+      "category": "work",
+      "description": "Prioritize a product backlog using impact, evidence, effort, capacity and dependencies.",
+      "try": "Prioritize this backlog for our next two-week sprint",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-sprint-prioritizer.json"
+    },
+    {
+      "id": "agency-technical-writer",
+      "name": "Technical Writer",
+      "title": "Technical Writer",
+      "category": "writing",
+      "description": "Write usable tutorials, how-to guides, reference material and explanations grounded in the software.",
+      "try": "Write a quick-start guide from this repository",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-technical-writer.json"
+    },
+    {
+      "id": "agency-ux-researcher",
+      "name": "UX Researcher",
+      "title": "UX Researcher",
+      "category": "design",
+      "description": "Plan inclusive user research and turn evidence into practical design recommendations.",
+      "try": "Build a usability study plan for this signup flow",
+      "look": {
+        "color": "cyan",
+        "mascotBody": "hexagon"
+      },
+      "apps": [],
+      "routines": 0,
+      "file": "bots/agency-ux-researcher.json"
+    },
+    {
       "id": "analyst",
       "name": "Sigma",
       "title": "Data analyst",

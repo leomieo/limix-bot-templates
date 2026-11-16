@@ -1,0 +1,70 @@
+{
+  "repository": "https://github.com/msitarzewski/agency-agents",
+  "commit": "8ae6164602c95ca78828b148b9052460ee426885",
+  "templates": [
+    {
+      "id": "agency-code-reviewer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-code-reviewer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-code-reviewer.md",
+      "license": "MIT",
+      "adaptation": "Condensed role-specific instructions; removed assumed tools, fictional experience and unsupported guarantees; added evidence, authorization and conversation-language rules."
+    },
+    {
+      "id": "agency-ux-researcher",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/design/design-ux-researcher.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "design/design-ux-researcher.md",
+      "license": "MIT",
+      "adaptation": "Condensed role-specific instructions; removed assumed tools, fictional experience and unsupported guarantees; added evidence, authorization and conversation-language rules."
+    },
+    {
+      "id": "agency-sprint-prioritizer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/product/product-sprint-prioritizer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "product/product-sprint-prioritizer.md",
+      "license": "MIT",
+      "adaptation": "Condensed role-specific instructions; removed assumed tools, fictional experience and unsupported guarantees; added evidence, authorization and conversation-language rules."
+    },
+    {
+      "id": "agency-feedback-synthesizer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/product/product-feedback-synthesizer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "product/product-feedback-synthesizer.md",
+      "license": "MIT",
+      "adaptation": "Condensed role-specific instructions; removed assumed tools, fictional experience and unsupported guarantees; added evidence, authorization and conversation-language rules."
+    },
+    {
+      "id": "agency-technical-writer",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/engineering/engineering-technical-writer.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "engineering/engineering-technical-writer.md",
+      "license": "MIT",
+      "adaptation": "Condensed role-specific instructions; removed assumed tools, fictional experience and unsupported guarantees; added evidence, authorization and conversation-language rules."
+    },
+    {
+      "id": "agency-accessibility-auditor",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/testing/testing-accessibility-auditor.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "testing/testing-accessibility-auditor.md",
+      "license": "MIT",
+      "adaptation": "Condensed role-specific instructions; removed assumed tools, fictional experience and unsupported guarantees; added evidence, authorization and conversation-language rules."
+    },
+    {
+      "id": "agency-api-tester",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/testing/testing-api-tester.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "testing/testing-api-tester.md",
+      "license": "MIT",
+      "adaptation": "Condensed role-specific instructions; removed assumed tools, fictional experience and unsupported guarantees; added evidence, authorization and conversation-language rules."
+    },
+    {
+      "id": "agency-brand-guardian",
+      "source": "https://github.com/msitarzewski/agency-agents/blob/8ae6164602c95ca78828b148b9052460ee426885/design/design-brand-guardian.md",
+      "sourceCommit": "8ae6164602c95ca78828b148b9052460ee426885",
+      "sourcePath": "design/design-brand-guardian.md",
+      "license": "MIT",
+      "adaptation": "Condensed role-specific instructions; removed assumed tools, fictional experience and unsupported guarantees; added evidence, authorization and conversation-language rules."
+    }
+  ]
+}
