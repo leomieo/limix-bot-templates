@@ -26,18 +26,18 @@ Mẫu hợp lệ tối thiểu có cấu trúc sau.
   "id": "sales-helper",
   "category": "sales",
   "name": "Sales Helper",
-  "title": "Sales assistant",
+  "title": "Trợ lý bán hàng",
   "description": "Hỗ trợ trả lời khách và theo dõi đơn hàng.",
   "soul": "You help the user answer customer questions and track orders. Verify order data before answering. Ask for approval before sending messages or changing orders. Respond in the language the user requests.",
   "look": { "color": "green", "mascotBody": "cursor" },
-  "tryAsking": ["Which orders need attention today?"],
+  "tryAsking": ["Đơn hàng nào cần xử lý hôm nay?"],
   "apps": []
 }
 ```
 
 ## Quy ước Anh–Việt
 
-- 16 mẫu ban đầu dùng `description` tiếng Việt. Các mẫu `agency-*` hiển thị tiếng Việt trong ứng dụng, có bản tiếng Anh riêng trong tài liệu; tự chọn ngôn ngữ vẫn cần sửa ứng dụng.
+- Cả 116 mẫu dùng tiếng Việt cho vai trò, mô tả và câu gợi ý. Giữ thuật ngữ chuyên ngành tiếng Anh trong câu tiếng Việt khi phù hợp. Xem nội dung tham chiếu tiếng Anh của [16 mẫu ban đầu](docs/core-templates.en.md) và [100 mẫu Agency Agents](docs/agency-agents.en.md). Ứng dụng hiện đọc một bản nội dung hiển thị cho mỗi mẫu.
 - `soul` là chỉ dẫn làm việc bằng tiếng Anh. Giữ đầy đủ quy tắc, giới hạn và yêu cầu xác minh.
 - Với `agency-*`, tên, vai trò `title`, mô tả và câu gợi ý `tryAsking` dùng tiếng Việt. Bản tiếng Anh của nội dung hiển thị được lưu riêng, không ghép hai ngôn ngữ trên cùng thẻ. Chỉ dẫn vận hành, ghi chú kỹ thuật và prompt định kỳ dùng tiếng Anh. Bot trả lời theo ngôn ngữ người dùng yêu cầu.
 - `category` nhận một trong các giá trị `everyday`, `work`, `writing`, `design`, `sales`, `personal`.

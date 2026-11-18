@@ -4,17 +4,17 @@
   "id": "community",
   "category": "work",
   "name": "Watch",
-  "title": "Community monitor",
-  "description": "Theo dõi Discord, Slack hoặc diễn đàn và báo cáo điều quan trọng theo lịch.",
+  "title": "Theo dõi cộng đồng trực tuyến",
+  "description": "Theo dõi Discord, Slack hoặc diễn đàn, rồi tóm tắt nội dung đáng chú ý theo lịch.",
   "soul": "You monitor the user's community channels.\nEach run: read new messages since last time; pull out unanswered questions, bug reports, and anything urgent; and summarise them with links, most urgent first.\nTrack recurring questions in memory and say when one keeps coming back.\nNever post, reply, or react in the channels yourself; you report to the user.",
   "look": {
     "color": "orange",
     "mascotBody": "shield"
   },
   "tryAsking": [
-    "What did the community ask about since yesterday?",
-    "List open bug reports from this week",
-    "Which question keeps coming up?"
+    "Cộng đồng đã hỏi gì kể từ hôm qua?",
+    "Liệt kê các báo cáo lỗi còn mở trong tuần này.",
+    "Câu hỏi nào được nhắc đi nhắc lại?"
   ],
   "apps": [
     "discord",
@@ -22,7 +22,7 @@
   ],
   "routines": [
     {
-      "name": "Community digest",
+      "name": "Tóm tắt hoạt động cộng đồng",
       "prompt": "Summarise what happened in my community channels since the last digest.",
       "schedule": {
         "type": "daily",

@@ -4,11 +4,11 @@
   "bots": [
     {
       "id": "agency-accessibility-auditor",
-      "name": "kiểm tra khả năng tiếp cận",
-      "title": "Chuyên viên kiểm tra khả năng tiếp cận",
+      "name": "Đánh giá khả năng tiếp cận",
+      "title": "Chuyên viên đánh giá Accessibility (khả năng tiếp cận)",
       "category": "design",
-      "description": "Tìm rào cản giao diện qua đối chiếu tiêu chuẩn và bằng chứng kiểm tra tương tác thủ công.",
-      "try": "Kiểm tra rào cản khi dùng bàn phím và trình đọc màn hình trên giao diện này",
+      "description": "Đối chiếu UI với tiêu chuẩn Accessibility, kiểm tra thao tác bằng bàn phím và Screen Reader, rồi ghi rõ rào cản kèm bằng chứng.",
+      "try": "Kiểm tra khả năng tiếp cận bằng bàn phím và Screen Reader trên UI này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -19,11 +19,11 @@
     },
     {
       "id": "agency-account-strategist",
-      "name": "Chiến lược khách hàng trọng điểm",
-      "title": "Chiến lược khách hàng trọng điểm",
+      "name": "Chiến lược tài khoản khách hàng",
+      "title": "Chuyên viên chiến lược tài khoản khách hàng",
       "category": "sales",
-      "description": "Phân tích tài khoản khách hàng và xây dựng kế hoạch phát triển quan hệ.",
-      "try": "Lập kế hoạch tiếp cận cho tài khoản khách hàng này",
+      "description": "Phân tích từng tài khoản khách hàng và xây dựng kế hoạch phát triển quan hệ dựa trên mục tiêu, cơ hội và rủi ro.",
+      "try": "Lập kế hoạch phát triển tài khoản khách hàng này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -49,11 +49,11 @@
     },
     {
       "id": "agency-analytics-reporter",
-      "name": "Báo cáo phân tích vận hành",
-      "title": "Báo cáo phân tích vận hành",
+      "name": "Phân tích và báo cáo vận hành",
+      "title": "Chuyên viên phân tích và báo cáo vận hành",
       "category": "work",
-      "description": "Chuyển dữ liệu vận hành thành báo cáo rõ ràng và đề xuất hành động.",
-      "try": "Tạo báo cáo vận hành từ dữ liệu này",
+      "description": "Chuyển dữ liệu vận hành thành báo cáo có kết luận rõ ràng và đề xuất hành động dựa trên số liệu.",
+      "try": "Tạo báo cáo phân tích từ dữ liệu vận hành này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -65,9 +65,9 @@
     {
       "id": "agency-api-platform-engineer",
       "name": "Nền tảng API",
-      "title": "Nền tảng API",
+      "title": "Kỹ sư nền tảng API",
       "category": "work",
-      "description": "Thiết kế API ổn định, dễ tích hợp và có cơ chế quản lý phiên bản.",
+      "description": "Thiết kế API ổn định, dễ tích hợp, có quản lý phiên bản và đáp ứng nhu cầu vận hành.",
       "try": "Rà soát thiết kế API và hướng dẫn tích hợp này",
       "look": {
         "color": "cyan",
@@ -79,11 +79,11 @@
     },
     {
       "id": "agency-api-tester",
-      "name": "kiểm thử API",
+      "name": "Kiểm thử API",
       "title": "Chuyên viên kiểm thử API",
       "category": "work",
-      "description": "Kiểm tra hợp đồng API, phân quyền, xử lý lỗi và hiệu năng trong môi trường thử nghiệm được phép.",
-      "try": "Lập kế hoạch kiểm thử các điểm truy cập API này",
+      "description": "Kiểm tra hợp đồng API, phân quyền, xử lý lỗi và hiệu năng trong môi trường thử nghiệm được cho phép.",
+      "try": "Lập kế hoạch kiểm thử các endpoint API này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -95,10 +95,10 @@
     {
       "id": "agency-app-store-optimizer",
       "name": "Tối ưu trang ứng dụng",
-      "title": "Tối ưu trang ứng dụng",
+      "title": "Chuyên viên tối ưu trang ứng dụng",
       "category": "sales",
-      "description": "Cải thiện nội dung giới thiệu và khả năng được tìm thấy trên kho ứng dụng.",
-      "try": "Rà soát trang giới thiệu ứng dụng này",
+      "description": "Cải thiện nội dung giới thiệu và khả năng được tìm thấy của ứng dụng trên App Store hoặc Google Play.",
+      "try": "Rà soát trang ứng dụng này trên App Store hoặc Google Play",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -109,11 +109,11 @@
     },
     {
       "id": "agency-appsec-engineer",
-      "name": "Kỹ sư bảo mật",
-      "title": "Kỹ sư bảo mật",
+      "name": "Bảo mật ứng dụng",
+      "title": "Kỹ sư bảo mật ứng dụng (AppSec)",
       "category": "work",
-      "description": "Phân tích bề mặt tấn công và đề xuất kiểm soát bảo mật phù hợp.",
-      "try": "Rà soát rủi ro bảo mật của hệ thống này",
+      "description": "Phân tích bề mặt tấn công của ứng dụng và đề xuất biện pháp kiểm soát bảo mật phù hợp.",
+      "try": "Rà soát rủi ro AppSec của hệ thống này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -124,11 +124,11 @@
     },
     {
       "id": "agency-backend-architect",
-      "name": "Kiến trúc hệ thống phía máy chủ",
-      "title": "Kiến trúc hệ thống phía máy chủ",
+      "name": "Kiến trúc Backend",
+      "title": "Kiến trúc sư Backend",
       "category": "work",
-      "description": "Thiết kế dịch vụ, hợp đồng API và lưu trữ dữ liệu phù hợp với nhu cầu mở rộng.",
-      "try": "Thiết kế hệ thống phía máy chủ cho sản phẩm này",
+      "description": "Thiết kế dịch vụ Backend, API và lớp lưu trữ dữ liệu để đáp ứng yêu cầu về khả năng mở rộng.",
+      "try": "Đề xuất kiến trúc Backend cho sản phẩm này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -139,11 +139,11 @@
     },
     {
       "id": "agency-brand-guardian",
-      "name": "nhất quán thương hiệu",
-      "title": "Chuyên viên nhất quán thương hiệu",
+      "name": "Nhất quán thương hiệu",
+      "title": "Chuyên viên quản trị thương hiệu",
       "category": "design",
-      "description": "Xây dựng nền tảng thương hiệu và kiểm tra giọng điệu, nhận diện, tính nhất quán giữa các kênh.",
-      "try": "Đối chiếu các tài liệu này với hướng dẫn thương hiệu của chúng tôi",
+      "description": "Xây dựng nền tảng thương hiệu và rà soát giọng điệu, nhận diện cùng tính nhất quán trên các kênh.",
+      "try": "Đối chiếu các tài liệu này với bộ hướng dẫn thương hiệu của chúng tôi",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -155,10 +155,10 @@
     {
       "id": "agency-business-strategist",
       "name": "Chiến lược kinh doanh",
-      "title": "Chiến lược kinh doanh",
+      "title": "Chuyên viên chiến lược kinh doanh",
       "category": "work",
-      "description": "Phân tích mô hình kinh doanh, lựa chọn tăng trưởng và rủi ro thực thi.",
-      "try": "Đánh giá các hướng phát triển cho mô hình kinh doanh này",
+      "description": "Phân tích mô hình kinh doanh, các phương án tăng trưởng và rủi ro khi triển khai.",
+      "try": "Đánh giá các phương án phát triển mô hình kinh doanh này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -184,11 +184,11 @@
     },
     {
       "id": "agency-code-reviewer",
-      "name": "rà soát mã",
-      "title": "Chuyên viên rà soát mã",
+      "name": "Code Review",
+      "title": "Chuyên viên Code Review (rà soát mã)",
       "category": "work",
-      "description": "Rà soát mã về tính đúng đắn, bảo mật, khả năng bảo trì và độ bao phủ kiểm thử cần thiết.",
-      "try": "Rà soát thay đổi này và xếp hạng các vấn đề cần sửa",
+      "description": "Rà soát code về tính chính xác, bảo mật, khả năng bảo trì và mức độ bao phủ của các test cần thiết.",
+      "try": "Rà soát thay đổi này và xếp hạng các vấn đề cần xử lý",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -199,11 +199,11 @@
     },
     {
       "id": "agency-codebase-onboarding-engineer",
-      "name": "Làm quen kho mã",
-      "title": "Làm quen kho mã",
+      "name": "Làm quen với codebase",
+      "title": "Chuyên viên hướng dẫn làm quen codebase",
       "category": "work",
-      "description": "Giải thích cấu trúc dự án và xây dựng lộ trình làm quen có dẫn chứng.",
-      "try": "Hướng dẫn tôi làm quen với kho mã này",
+      "description": "Giải thích cấu trúc dự án và đề xuất lộ trình làm quen có dẫn chứng từ codebase.",
+      "try": "Hướng dẫn tôi khám phá codebase này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -215,9 +215,9 @@
     {
       "id": "agency-content-creator",
       "name": "Sáng tạo nội dung",
-      "title": "Sáng tạo nội dung",
+      "title": "Chuyên viên sáng tạo nội dung",
       "category": "writing",
-      "description": "Lập ý tưởng và soạn nội dung phù hợp đối tượng, kênh và giọng thương hiệu.",
+      "description": "Lên ý tưởng và soạn nội dung phù hợp với đối tượng, kênh truyền thông và giọng điệu thương hiệu.",
       "try": "Lập kế hoạch nội dung cho sản phẩm này",
       "look": {
         "color": "cyan",
@@ -229,11 +229,11 @@
     },
     {
       "id": "agency-creative-strategist",
-      "name": "Ý tưởng sáng tạo quảng cáo",
-      "title": "Ý tưởng sáng tạo quảng cáo",
+      "name": "Chiến lược sáng tạo quảng cáo",
+      "title": "Chuyên viên chiến lược sáng tạo",
       "category": "sales",
-      "description": "Thiết kế thông điệp và biến thể quảng cáo có giả thuyết thử nghiệm rõ ràng.",
-      "try": "Đề xuất các hướng sáng tạo quảng cáo cho chiến dịch này",
+      "description": "Xây dựng thông điệp và các phiên bản quảng cáo, kèm giả thuyết rõ ràng để thử nghiệm.",
+      "try": "Đề xuất các hướng sáng tạo cho chiến dịch quảng cáo này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -259,11 +259,11 @@
     },
     {
       "id": "agency-customer-success-manager",
-      "name": "Chăm sóc thành công khách hàng",
-      "title": "Chăm sóc thành công khách hàng",
+      "name": "Customer Success",
+      "title": "Quản lý Customer Success",
       "category": "sales",
-      "description": "Lập kế hoạch tiếp nhận, duy trì giá trị và xử lý rủi ro khách hàng.",
-      "try": "Lập kế hoạch giúp khách hàng này sử dụng sản phẩm hiệu quả",
+      "description": "Giúp khách hàng làm quen với sản phẩm, đạt mục tiêu sử dụng và nhận biết sớm những trở ngại có thể khiến họ ngừng sử dụng.",
+      "try": "Lập kế hoạch giúp khách hàng này đạt kết quả tốt với sản phẩm",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -277,8 +277,8 @@
       "name": "Kỹ sư dữ liệu",
       "title": "Kỹ sư dữ liệu",
       "category": "work",
-      "description": "Thiết kế luồng dữ liệu có kiểm tra chất lượng, nguồn gốc và khả năng phục hồi.",
-      "try": "Thiết kế luồng nhập và xử lý dữ liệu này",
+      "description": "Thiết kế pipeline dữ liệu có kiểm tra chất lượng, truy xuất nguồn gốc và khả năng phục hồi.",
+      "try": "Thiết kế pipeline nhập và xử lý dữ liệu này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -290,10 +290,10 @@
     {
       "id": "agency-data-visualization-engineer",
       "name": "Trực quan hóa dữ liệu",
-      "title": "Trực quan hóa dữ liệu",
+      "title": "Chuyên viên trực quan hóa dữ liệu",
       "category": "work",
-      "description": "Chọn biểu đồ và trình bày dữ liệu rõ ràng, chính xác, dễ tiếp cận.",
-      "try": "Chọn biểu đồ phù hợp để giải thích bộ dữ liệu này",
+      "description": "Chọn loại biểu đồ phù hợp và trình bày dữ liệu chính xác, dễ hiểu, dễ tiếp cận.",
+      "try": "Chọn biểu đồ phù hợp để trình bày bộ dữ liệu này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -320,10 +320,10 @@
     {
       "id": "agency-deal-strategist",
       "name": "Chiến lược thương vụ",
-      "title": "Chiến lược thương vụ",
+      "title": "Chuyên viên chiến lược thương vụ",
       "category": "sales",
-      "description": "Đánh giá rủi ro thương vụ và lập kế hoạch bước tiếp theo.",
-      "try": "Phân tích các rủi ro khiến thương vụ này bị chậm",
+      "description": "Đánh giá các rủi ro có thể ảnh hưởng đến thương vụ và xác định bước xử lý tiếp theo.",
+      "try": "Phân tích các rủi ro đang khiến thương vụ này chậm tiến độ",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -334,11 +334,11 @@
     },
     {
       "id": "agency-desktop-app-engineer",
-      "name": "Phát triển ứng dụng máy tính",
-      "title": "Phát triển ứng dụng máy tính",
+      "name": "Phát triển ứng dụng desktop",
+      "title": "Kỹ sư ứng dụng desktop",
       "category": "work",
-      "description": "Thiết kế ứng dụng máy tính ổn định với tích hợp hệ điều hành phù hợp.",
-      "try": "Đề xuất kiến trúc cho ứng dụng máy tính này",
+      "description": "Thiết kế ứng dụng desktop ổn định, tích hợp phù hợp với hệ điều hành mục tiêu.",
+      "try": "Đề xuất kiến trúc cho ứng dụng desktop này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -364,11 +364,11 @@
     },
     {
       "id": "agency-developer-tooling-engineer",
-      "name": "Công cụ cho lập trình viên",
-      "title": "Công cụ cho lập trình viên",
+      "name": "Công cụ phát triển",
+      "title": "Kỹ sư công cụ phát triển",
       "category": "work",
-      "description": "Cải thiện môi trường phát triển, quy trình xây dựng và trải nghiệm làm việc.",
-      "try": "Tìm các bước làm việc có thể rút gọn trong kho mã này",
+      "description": "Cải thiện công cụ, môi trường phát triển, quy trình build và trải nghiệm làm việc của lập trình viên.",
+      "try": "Tìm các bước trong quy trình phát triển có thể rút gọn ở codebase này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -379,11 +379,11 @@
     },
     {
       "id": "agency-devops-automator",
-      "name": "Tự động hóa phát triển và vận hành",
-      "title": "Tự động hóa phát triển và vận hành",
+      "name": "Tự động hóa DevOps",
+      "title": "Kỹ sư tự động hóa DevOps",
       "category": "work",
-      "description": "Thiết kế quy trình kiểm thử, triển khai và quản lý hạ tầng có thể kiểm chứng.",
-      "try": "Rà soát quy trình triển khai và đề xuất tự động hóa",
+      "description": "Thiết kế pipeline kiểm thử, triển khai và quản lý hạ tầng có thể kiểm chứng.",
+      "try": "Rà soát quy trình triển khai và đề xuất tự động hóa DevOps",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -409,11 +409,11 @@
     },
     {
       "id": "agency-dx-engineer",
-      "name": "Trải nghiệm nhà phát triển",
-      "title": "Trải nghiệm nhà phát triển",
+      "name": "Developer Experience (DX)",
+      "title": "Kỹ sư Developer Experience (DX)",
       "category": "work",
       "description": "Cải thiện trải nghiệm tích hợp, tài liệu và sử dụng sản phẩm dành cho lập trình viên.",
-      "try": "Đánh giá trải nghiệm tích hợp API này",
+      "try": "Đánh giá trải nghiệm tích hợp API của sản phẩm này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -440,10 +440,10 @@
     {
       "id": "agency-engineer",
       "name": "Tư vấn kỹ thuật bán hàng",
-      "title": "Tư vấn kỹ thuật bán hàng",
+      "title": "Kỹ sư tư vấn bán hàng (Sales Engineer)",
       "category": "sales",
-      "description": "Kết nối yêu cầu khách hàng với giải pháp kỹ thuật có thể chứng minh.",
-      "try": "Chuẩn bị buổi trình diễn kỹ thuật cho khách hàng này",
+      "description": "Kết nối yêu cầu của khách hàng với giải pháp kỹ thuật có thể kiểm chứng.",
+      "try": "Chuẩn bị nội dung demo kỹ thuật cho khách hàng này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -454,11 +454,11 @@
     },
     {
       "id": "agency-evidence-collector",
-      "name": "Thu thập bằng chứng kiểm thử",
-      "title": "Thu thập bằng chứng kiểm thử",
+      "name": "Bằng chứng kiểm thử",
+      "title": "Chuyên viên thu thập bằng chứng kiểm thử",
       "category": "work",
-      "description": "Ghi lại bước tái hiện và bằng chứng để đánh giá lỗi chính xác.",
-      "try": "Chuẩn bị bằng chứng tái hiện cho lỗi giao diện này",
+      "description": "Ghi lại các bước tái hiện và bằng chứng cần thiết để đánh giá lỗi chính xác.",
+      "try": "Chuẩn bị các bước tái hiện và bằng chứng cho lỗi giao diện này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -485,10 +485,10 @@
     {
       "id": "agency-experiment-tracker",
       "name": "Theo dõi thử nghiệm",
-      "title": "Theo dõi thử nghiệm",
+      "title": "Chuyên viên theo dõi thử nghiệm",
       "category": "work",
-      "description": "Thiết kế và ghi nhận giả thuyết, phép đo và kết luận của thử nghiệm.",
-      "try": "Lập kế hoạch theo dõi thử nghiệm sản phẩm này",
+      "description": "Xác định và ghi nhận giả thuyết, chỉ số đo lường và kết luận của thử nghiệm.",
+      "try": "Lập kế hoạch đo lường cho thử nghiệm sản phẩm này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -499,11 +499,11 @@
     },
     {
       "id": "agency-feedback-synthesizer",
-      "name": "tổng hợp phản hồi",
+      "name": "Tổng hợp phản hồi",
       "title": "Chuyên viên tổng hợp phản hồi",
       "category": "work",
-      "description": "Chuyển phản hồi khách hàng thành các chủ đề có nguồn đối chiếu và thứ tự ưu tiên sản phẩm.",
-      "try": "Nhóm các phản hồi khách hàng này thành chủ đề và đề xuất hành động",
+      "description": "Nhóm phản hồi khách hàng thành các chủ đề có thể truy về nguồn và xếp thứ tự ưu tiên cho sản phẩm.",
+      "try": "Nhóm các phản hồi khách hàng này theo chủ đề và đề xuất hành động",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -529,11 +529,11 @@
     },
     {
       "id": "agency-finops-engineer",
-      "name": "Tối ưu chi phí hạ tầng",
-      "title": "Tối ưu chi phí hạ tầng",
+      "name": "Tối ưu chi phí FinOps",
+      "title": "Kỹ sư FinOps",
       "category": "work",
-      "description": "Phân tích chi phí đám mây theo nhu cầu sử dụng và đánh đổi vận hành.",
-      "try": "Phân tích hóa đơn hạ tầng và đề xuất tiết kiệm",
+      "description": "Phân tích chi phí Cloud theo mức sử dụng và các đánh đổi trong vận hành.",
+      "try": "Phân tích hóa đơn Cloud này và đề xuất cách tiết kiệm",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -544,11 +544,11 @@
     },
     {
       "id": "agency-frontend-developer",
-      "name": "Phát triển giao diện web",
-      "title": "Phát triển giao diện web",
+      "name": "Phát triển Frontend",
+      "title": "Kỹ sư Frontend",
       "category": "work",
-      "description": "Xây dựng giao diện web dễ dùng, tương thích nhiều màn hình và tối ưu hiệu năng.",
-      "try": "Xây dựng giao diện cho trang web này theo thiết kế của tôi",
+      "description": "Xây dựng giao diện web dễ sử dụng, hoạt động tốt trên nhiều kích thước màn hình và có hiệu năng phù hợp.",
+      "try": "Xây dựng Frontend cho trang web này theo thiết kế của tôi",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -574,11 +574,11 @@
     },
     {
       "id": "agency-growth-hacker",
-      "name": "Thử nghiệm tăng trưởng",
-      "title": "Thử nghiệm tăng trưởng",
+      "name": "Tăng trưởng sản phẩm",
+      "title": "Chuyên viên tăng trưởng sản phẩm",
       "category": "sales",
-      "description": "Xây dựng thử nghiệm tăng trưởng dựa trên hành trình khách hàng và dữ liệu.",
-      "try": "Đề xuất các thử nghiệm tăng trưởng cho sản phẩm này",
+      "description": "Đề xuất thử nghiệm tăng trưởng dựa trên hành trình khách hàng và dữ liệu thực tế.",
+      "try": "Đề xuất các thử nghiệm tăng trưởng phù hợp cho sản phẩm này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -590,10 +590,10 @@
     {
       "id": "agency-hr-onboarding",
       "name": "Tiếp nhận nhân viên mới",
-      "title": "Tiếp nhận nhân viên mới",
+      "title": "Chuyên viên HR onboarding",
       "category": "work",
-      "description": "Thiết kế lịch làm quen, tài liệu và trách nhiệm khi nhân viên gia nhập.",
-      "try": "Lập kế hoạch tiếp nhận nhân viên mới trong tháng đầu",
+      "description": "Thiết kế lịch hội nhập, tài liệu và phân công trách nhiệm cho nhân viên mới.",
+      "try": "Lập kế hoạch onboarding cho nhân viên mới trong tháng đầu",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -604,11 +604,11 @@
     },
     {
       "id": "agency-i18n-engineer",
-      "name": "Kỹ sư đa ngôn ngữ",
-      "title": "Kỹ sư đa ngôn ngữ",
+      "name": "Quốc tế hóa và bản địa hóa",
+      "title": "Kỹ sư quốc tế hóa (i18n) và bản địa hóa (l10n)",
       "category": "work",
-      "description": "Thiết kế bản địa hóa, định dạng vùng miền và cơ chế dự phòng bản dịch.",
-      "try": "Rà soát khả năng hỗ trợ tiếng Việt và tiếng Anh của ứng dụng",
+      "description": "Thiết kế khả năng hỗ trợ nhiều ngôn ngữ, định dạng theo vùng và cơ chế dự phòng bản dịch.",
+      "try": "Rà soát khả năng bản địa hóa tiếng Việt và tiếng Anh của ứng dụng này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -619,11 +619,11 @@
     },
     {
       "id": "agency-identity-access-engineer",
-      "name": "Danh tính và phân quyền",
-      "title": "Danh tính và phân quyền",
+      "name": "Quản lý danh tính và quyền truy cập",
+      "title": "Kỹ sư IAM (quản lý danh tính và quyền truy cập)",
       "category": "work",
-      "description": "Thiết kế đăng nhập, phân quyền và quản lý vòng đời tài khoản.",
-      "try": "Đánh giá mô hình đăng nhập và phân quyền này",
+      "description": "Thiết kế quy trình đăng nhập, phân quyền và quản lý vòng đời tài khoản.",
+      "try": "Đánh giá thiết kế đăng nhập và phân quyền này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -634,11 +634,11 @@
     },
     {
       "id": "agency-image-prompt-engineer",
-      "name": "Soạn yêu cầu tạo ảnh",
-      "title": "Soạn yêu cầu tạo ảnh",
+      "name": "Viết prompt tạo ảnh",
+      "title": "Chuyên viên viết prompt tạo ảnh",
       "category": "design",
-      "description": "Chuyển ý tưởng thành mô tả tạo ảnh cụ thể về bố cục, ánh sáng và phong cách.",
-      "try": "Viết mô tả tạo ảnh cho ý tưởng này",
+      "description": "Chuyển ý tưởng thành prompt tạo ảnh cụ thể, nêu rõ bố cục, ánh sáng và phong cách.",
+      "try": "Viết prompt tạo ảnh cho ý tưởng này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -665,10 +665,10 @@
     {
       "id": "agency-inclusive-visuals-specialist",
       "name": "Hình ảnh hòa nhập",
-      "title": "Hình ảnh hòa nhập",
+      "title": "Chuyên viên đánh giá tính hòa nhập của hình ảnh",
       "category": "design",
       "description": "Rà soát cách thể hiện con người và khả năng tiếp cận trong nội dung hình ảnh.",
-      "try": "Đánh giá tính hòa nhập của bộ hình ảnh này",
+      "try": "Đánh giá tính hòa nhập và khả năng tiếp cận của bộ hình ảnh này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -709,11 +709,11 @@
     },
     {
       "id": "agency-language-translator",
-      "name": "Biên dịch ngôn ngữ",
-      "title": "Biên dịch ngôn ngữ",
+      "name": "Biên dịch",
+      "title": "Chuyên viên biên dịch",
       "category": "writing",
-      "description": "Dịch nội dung đúng ý, nhất quán thuật ngữ và phù hợp người đọc.",
-      "try": "Dịch nội dung này sang tiếng Việt tự nhiên và đúng thuật ngữ",
+      "description": "Dịch đúng ý, thống nhất thuật ngữ và điều chỉnh cách diễn đạt cho phù hợp với người đọc.",
+      "try": "Dịch nội dung này sang tiếng Việt tự nhiên, đồng thời giữ đúng thuật ngữ",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -769,11 +769,11 @@
     },
     {
       "id": "agency-minimal-change-engineer",
-      "name": "Sửa mã với thay đổi tối thiểu",
-      "title": "Sửa mã với thay đổi tối thiểu",
+      "name": "Sửa code tối thiểu",
+      "title": "Kỹ sư sửa lỗi với thay đổi tối thiểu",
       "category": "work",
-      "description": "Sửa đúng nguyên nhân với phạm vi nhỏ, dễ đánh giá và kiểm tra.",
-      "try": "Sửa lỗi này với ít thay đổi nhất có thể",
+      "description": "Sửa lỗi đúng nguyên nhân bằng thay đổi nhỏ, dễ rà soát và kiểm thử.",
+      "try": "Sửa lỗi này với phạm vi thay đổi nhỏ nhất có thể",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -829,11 +829,11 @@
     },
     {
       "id": "agency-offer-lead-gen-strategist",
-      "name": "Thiết kế đề nghị và tạo nhu cầu",
-      "title": "Thiết kế đề nghị và tạo nhu cầu",
+      "name": "Đề xuất giá trị và tạo lead",
+      "title": "Chuyên viên thiết kế đề xuất giá trị và tạo lead",
       "category": "sales",
-      "description": "Xây dựng đề nghị giá trị và thử nghiệm thu hút khách hàng tiềm năng.",
-      "try": "Đề xuất lời chào hàng và kế hoạch tạo nhu cầu",
+      "description": "Xây dựng đề xuất giá trị và thử nghiệm cách thu hút khách hàng tiềm năng.",
+      "try": "Đề xuất giá trị và kế hoạch thu hút khách hàng tiềm năng cho sản phẩm này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -875,7 +875,7 @@
     {
       "id": "agency-payments-billing-engineer",
       "name": "Thanh toán và tính phí",
-      "title": "Thanh toán và tính phí",
+      "title": "Kỹ sư hệ thống thanh toán và tính phí",
       "category": "work",
       "description": "Thiết kế luồng thanh toán, đối soát và xử lý lỗi giao dịch.",
       "try": "Rà soát thiết kế thanh toán định kỳ của sản phẩm này",
@@ -905,10 +905,10 @@
     {
       "id": "agency-persona-walkthrough",
       "name": "Đánh giá theo chân dung người dùng",
-      "title": "Đánh giá theo chân dung người dùng",
+      "title": "Chuyên viên đánh giá trải nghiệm theo chân dung người dùng",
       "category": "design",
-      "description": "Đi qua luồng sử dụng từ các nhu cầu và hạn chế khác nhau.",
-      "try": "Đánh giá luồng này từ góc nhìn người dùng mới",
+      "description": "Đánh giá luồng sử dụng dựa trên nhu cầu, mục tiêu và hạn chế của từng nhóm người dùng.",
+      "try": "Đánh giá luồng này từ góc nhìn của người lần đầu sử dụng",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -935,7 +935,7 @@
     {
       "id": "agency-platform-engineer",
       "name": "Nền tảng phát triển nội bộ",
-      "title": "Nền tảng phát triển nội bộ",
+      "title": "Kỹ sư nền tảng phát triển nội bộ",
       "category": "work",
       "description": "Thiết kế nền tảng giúp nhóm phát triển tự phục vụ an toàn và hiệu quả.",
       "try": "Đề xuất nền tảng phát triển nội bộ cho nhóm này",
@@ -964,11 +964,11 @@
     },
     {
       "id": "agency-ppc-strategist",
-      "name": "Chiến lược quảng cáo tìm kiếm",
-      "title": "Chiến lược quảng cáo tìm kiếm",
+      "name": "Chiến lược PPC",
+      "title": "Chuyên viên quảng cáo PPC (trả phí theo lượt nhấp)",
       "category": "sales",
-      "description": "Lập kế hoạch quảng cáo tìm kiếm theo mục tiêu, ngân sách và dữ liệu chuyển đổi.",
-      "try": "Đề xuất kế hoạch quảng cáo tìm kiếm cho sản phẩm này",
+      "description": "Lập kế hoạch quảng cáo PPC theo mục tiêu, ngân sách và dữ liệu chuyển đổi.",
+      "try": "Đề xuất kế hoạch quảng cáo PPC cho sản phẩm này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -980,9 +980,9 @@
     {
       "id": "agency-pr-communications-manager",
       "name": "Truyền thông và quan hệ báo chí",
-      "title": "Truyền thông và quan hệ báo chí",
+      "title": "Quản lý truyền thông và PR",
       "category": "writing",
-      "description": "Soạn thông điệp, tài liệu báo chí và kế hoạch truyền thông có kiểm chứng.",
+      "description": "Soạn thông điệp, tài liệu báo chí và kế hoạch PR dựa trên thông tin đã kiểm chứng.",
       "try": "Soạn thông cáo báo chí từ thông tin ra mắt này",
       "look": {
         "color": "cyan",
@@ -1010,9 +1010,9 @@
     {
       "id": "agency-project-manager-senior",
       "name": "Quản lý dự án tổng thể",
-      "title": "Quản lý dự án tổng thể",
+      "title": "Quản lý dự án cấp cao",
       "category": "work",
-      "description": "Lập kế hoạch phạm vi, nguồn lực và tiến độ có đánh đổi rõ ràng.",
+      "description": "Lập kế hoạch phạm vi, nguồn lực và tiến độ; nêu rõ các đánh đổi cần cân nhắc.",
       "try": "Đánh giá tiến độ và rủi ro của kế hoạch dự án này",
       "look": {
         "color": "cyan",
@@ -1039,11 +1039,11 @@
     },
     {
       "id": "agency-prompt-engineer",
-      "name": "Thiết kế chỉ dẫn AI",
-      "title": "Thiết kế chỉ dẫn AI",
+      "name": "Thiết kế prompt AI",
+      "title": "Chuyên viên thiết kế prompt AI",
       "category": "work",
-      "description": "Xây dựng và đánh giá chỉ dẫn AI theo tác vụ, dữ liệu và tiêu chí cụ thể.",
-      "try": "Cải thiện chỉ dẫn AI này và đề xuất cách đánh giá",
+      "description": "Viết và đánh giá prompt AI dựa trên tác vụ, dữ liệu đầu vào và tiêu chí cụ thể.",
+      "try": "Cải thiện prompt AI này và đề xuất cách đánh giá kết quả",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -1069,11 +1069,11 @@
     },
     {
       "id": "agency-rag-pipeline-engineer",
-      "name": "Truy xuất tài liệu cho AI",
-      "title": "Truy xuất tài liệu cho AI",
+      "name": "Pipeline RAG",
+      "title": "Kỹ sư pipeline RAG (tạo sinh có truy xuất)",
       "category": "work",
-      "description": "Thiết kế hệ thống truy xuất tài liệu giúp AI trả lời có bằng chứng.",
-      "try": "Thiết kế hệ thống hỏi đáp dựa trên tài liệu nội bộ",
+      "description": "Thiết kế hệ thống truy xuất tài liệu để câu trả lời của AI có thể đối chiếu với nguồn.",
+      "try": "Thiết kế hệ thống hỏi đáp dựa trên tài liệu nội bộ bằng RAG",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -1100,10 +1100,10 @@
     {
       "id": "agency-reality-checker",
       "name": "Xác minh mức độ sẵn sàng",
-      "title": "Xác minh mức độ sẵn sàng",
+      "title": "Chuyên viên xác minh mức độ sẵn sàng",
       "category": "work",
-      "description": "Đối chiếu tuyên bố hoàn thành với bằng chứng và tiêu chí chấp nhận.",
-      "try": "Kiểm tra tính năng này đã thực sự sẵn sàng chưa",
+      "description": "Đối chiếu tuyên bố hoàn thành với bằng chứng và tiêu chí nghiệm thu.",
+      "try": "Kiểm tra tính năng này đã đáp ứng tiêu chí nghiệm thu chưa",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -1115,10 +1115,10 @@
     {
       "id": "agency-realtime-collaboration-engineer",
       "name": "Cộng tác thời gian thực",
-      "title": "Cộng tác thời gian thực",
+      "title": "Kỹ sư cộng tác thời gian thực",
       "category": "work",
-      "description": "Thiết kế đồng bộ, xử lý xung đột và trạng thái kết nối cho ứng dụng cộng tác.",
-      "try": "Thiết kế tính năng cùng chỉnh sửa tài liệu này",
+      "description": "Thiết kế cơ chế đồng bộ dữ liệu, xử lý xung đột và duy trì kết nối cho ứng dụng cộng tác.",
+      "try": "Thiết kế tính năng cho phép nhiều người cùng chỉnh sửa tài liệu này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -1160,10 +1160,10 @@
     {
       "id": "agency-resume-tailor",
       "name": "Điều chỉnh hồ sơ ứng tuyển",
-      "title": "Điều chỉnh hồ sơ ứng tuyển",
+      "title": "Chuyên viên điều chỉnh hồ sơ ứng tuyển",
       "category": "writing",
-      "description": "Làm rõ kinh nghiệm phù hợp vị trí mà không bịa thành tích.",
-      "try": "Điều chỉnh hồ sơ của tôi theo mô tả công việc này",
+      "description": "Làm nổi bật kinh nghiệm phù hợp với vị trí ứng tuyển mà không thêm thành tích chưa có.",
+      "try": "Điều chỉnh hồ sơ của tôi cho phù hợp với mô tả công việc này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -1175,10 +1175,10 @@
     {
       "id": "agency-search-relevance-engineer",
       "name": "Chất lượng tìm kiếm",
-      "title": "Chất lượng tìm kiếm",
+      "title": "Kỹ sư chất lượng tìm kiếm",
       "category": "work",
-      "description": "Cải thiện truy xuất và xếp hạng kết quả tìm kiếm bằng đánh giá thực tế.",
-      "try": "Đề xuất cách đo và cải thiện chất lượng tìm kiếm này",
+      "description": "Cải thiện khả năng truy xuất và thứ hạng kết quả bằng các phép đánh giá thực tế.",
+      "try": "Đề xuất cách đo lường và cải thiện chất lượng tìm kiếm này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -1189,11 +1189,11 @@
     },
     {
       "id": "agency-seo-specialist",
-      "name": "Tối ưu tìm kiếm tự nhiên",
-      "title": "Tối ưu tìm kiếm tự nhiên",
+      "name": "Chiến lược SEO",
+      "title": "Chuyên viên SEO (tối ưu hóa công cụ tìm kiếm)",
       "category": "sales",
-      "description": "Phân tích ý định tìm kiếm, nội dung và vấn đề kỹ thuật của website.",
-      "try": "Rà soát website này và đề xuất cải thiện tìm kiếm tự nhiên",
+      "description": "Phân tích ý định tìm kiếm, nội dung và các vấn đề kỹ thuật của website để cải thiện SEO.",
+      "try": "Rà soát website này và đề xuất cách cải thiện SEO",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -1249,11 +1249,11 @@
     },
     {
       "id": "agency-sprint-prioritizer",
-      "name": "ưu tiên công việc",
-      "title": "Chuyên viên ưu tiên công việc",
+      "name": "Ưu tiên Sprint",
+      "title": "Chuyên viên ưu tiên Sprint",
       "category": "work",
-      "description": "Ưu tiên danh sách công việc theo tác động, bằng chứng, công sức, năng lực nhóm và phụ thuộc.",
-      "try": "Ưu tiên danh sách công việc cho đợt phát triển hai tuần tới",
+      "description": "Ưu tiên backlog trong Sprint dựa trên tác động, bằng chứng, công sức, năng lực nhóm và các hạng mục phụ thuộc.",
+      "try": "Ưu tiên backlog cho Sprint hai tuần tới",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -1264,10 +1264,10 @@
     },
     {
       "id": "agency-sre",
-      "name": "Độ tin cậy hệ thống",
-      "title": "Độ tin cậy hệ thống",
+      "name": "Độ tin cậy hệ thống (SRE)",
+      "title": "Kỹ sư SRE (độ tin cậy hệ thống)",
       "category": "work",
-      "description": "Xây dựng mục tiêu độ tin cậy, cảnh báo và quy trình ứng phó sự cố.",
+      "description": "Xác định mục tiêu độ tin cậy, thiết kế cảnh báo và xây dựng quy trình ứng phó sự cố.",
       "try": "Đề xuất mục tiêu độ tin cậy và cảnh báo cho dịch vụ này",
       "look": {
         "color": "cyan",
@@ -1294,11 +1294,11 @@
     },
     {
       "id": "agency-technical-writer",
-      "name": "tài liệu kỹ thuật",
-      "title": "Chuyên viên tài liệu kỹ thuật",
+      "name": "Tài liệu kỹ thuật",
+      "title": "Chuyên viên viết tài liệu kỹ thuật",
       "category": "writing",
-      "description": "Soạn bài hướng dẫn, tài liệu tra cứu và giải thích kỹ thuật bám sát phần mềm thực tế.",
-      "try": "Viết hướng dẫn bắt đầu nhanh từ kho mã này",
+      "description": "Soạn hướng dẫn, tài liệu tra cứu và giải thích kỹ thuật bám sát cách phần mềm hoạt động.",
+      "try": "Viết hướng dẫn bắt đầu nhanh dựa trên codebase này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -1310,9 +1310,9 @@
     {
       "id": "agency-test-automation-engineer",
       "name": "Tự động hóa kiểm thử",
-      "title": "Tự động hóa kiểm thử",
+      "title": "Kỹ sư tự động hóa kiểm thử",
       "category": "work",
-      "description": "Xây dựng bộ kiểm thử đáng tin cậy cho các hành vi quan trọng.",
+      "description": "Xây dựng bộ test đáng tin cậy cho các luồng và hành vi quan trọng của sản phẩm.",
       "try": "Đề xuất chiến lược tự động hóa kiểm thử cho dự án này",
       "look": {
         "color": "cyan",
@@ -1369,11 +1369,11 @@
     },
     {
       "id": "agency-trend-researcher",
-      "name": "Nghiên cứu xu hướng sản phẩm",
-      "title": "Nghiên cứu xu hướng sản phẩm",
+      "name": "Nghiên cứu xu hướng thị trường",
+      "title": "Chuyên viên nghiên cứu xu hướng thị trường",
       "category": "work",
-      "description": "Phân tích tín hiệu thị trường và tác động có thể có với sản phẩm.",
-      "try": "Nghiên cứu xu hướng liên quan đến sản phẩm này",
+      "description": "Phân tích tín hiệu thị trường và đánh giá tác động có thể có đối với sản phẩm.",
+      "try": "Nghiên cứu các xu hướng có thể ảnh hưởng đến sản phẩm này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -1399,11 +1399,11 @@
     },
     {
       "id": "agency-ui-designer",
-      "name": "Thiết kế giao diện",
-      "title": "Thiết kế giao diện",
+      "name": "Thiết kế UI",
+      "title": "Nhà thiết kế UI (giao diện người dùng)",
       "category": "design",
-      "description": "Thiết kế bố cục, thành phần và trạng thái tương tác nhất quán.",
-      "try": "Đề xuất giao diện cho luồng sử dụng này",
+      "description": "Thiết kế bố cục, thành phần và trạng thái tương tác nhất quán trên toàn bộ UI.",
+      "try": "Đề xuất UI cho luồng sử dụng này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -1414,11 +1414,11 @@
     },
     {
       "id": "agency-ui-finish-gate-reviewer",
-      "name": "Rà soát hoàn thiện giao diện",
-      "title": "Rà soát hoàn thiện giao diện",
+      "name": "Rà soát hoàn thiện UI",
+      "title": "Chuyên viên rà soát hoàn thiện UI",
       "category": "design",
-      "description": "Kiểm tra độ nhất quán và các lỗi giao diện trước khi bàn giao.",
-      "try": "Rà soát mức độ hoàn thiện của giao diện này",
+      "description": "Kiểm tra tính nhất quán và các lỗi UI trước khi bàn giao.",
+      "try": "Rà soát mức độ hoàn thiện của UI này trước khi bàn giao",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -1429,8 +1429,8 @@
     },
     {
       "id": "agency-ux-architect",
-      "name": "Kiến trúc trải nghiệm",
-      "title": "Kiến trúc trải nghiệm",
+      "name": "Kiến trúc UX",
+      "title": "Kiến trúc sư UX (trải nghiệm người dùng)",
       "category": "design",
       "description": "Tổ chức thông tin và luồng sử dụng theo mục tiêu thực tế của người dùng.",
       "try": "Rà soát cấu trúc thông tin và luồng thao tác này",
@@ -1444,11 +1444,11 @@
     },
     {
       "id": "agency-ux-researcher",
-      "name": "nghiên cứu trải nghiệm",
-      "title": "Chuyên viên nghiên cứu trải nghiệm",
+      "name": "Nghiên cứu UX",
+      "title": "Chuyên viên nghiên cứu UX (trải nghiệm người dùng)",
       "category": "design",
-      "description": "Lập kế hoạch nghiên cứu người dùng toàn diện và chuyển bằng chứng thành đề xuất thiết kế thực tế.",
-      "try": "Lập kế hoạch kiểm tra tính dễ dùng cho luồng đăng ký này",
+      "description": "Lập kế hoạch nghiên cứu với nhiều nhóm người dùng và dùng kết quả thu được để đề xuất cải tiến thiết kế.",
+      "try": "Lập kế hoạch đánh giá usability (mức độ dễ sử dụng) cho luồng đăng ký này",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -1459,11 +1459,11 @@
     },
     {
       "id": "agency-video-optimization-specialist",
-      "name": "Tối ưu nội dung video",
-      "title": "Tối ưu nội dung video",
+      "name": "Tối ưu hiệu quả video",
+      "title": "Chuyên viên tối ưu hiệu quả video",
       "category": "sales",
-      "description": "Phân tích tiêu đề, hình đại diện và giữ chân người xem dựa trên dữ liệu.",
-      "try": "Đề xuất cải thiện hiệu quả cho video này",
+      "description": "Phân tích tiêu đề, thumbnail và khả năng giữ chân người xem dựa trên dữ liệu.",
+      "try": "Đề xuất cách cải thiện hiệu quả video này dựa trên dữ liệu",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -1490,10 +1490,10 @@
     {
       "id": "agency-workflow-optimizer",
       "name": "Tối ưu quy trình làm việc",
-      "title": "Tối ưu quy trình làm việc",
+      "title": "Chuyên viên tối ưu quy trình làm việc",
       "category": "work",
-      "description": "Tìm điểm nghẽn và đề xuất cải tiến quy trình có cách đo rõ ràng.",
-      "try": "Phân tích quy trình này và đề xuất giảm thời gian chờ",
+      "description": "Tìm điểm nghẽn và đề xuất cải tiến quy trình với chỉ số đo lường rõ ràng.",
+      "try": "Phân tích quy trình này và đề xuất cách giảm thời gian chờ",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -1505,10 +1505,10 @@
     {
       "id": "analyst",
       "name": "Sigma",
-      "title": "Data analyst",
+      "title": "Chuyên viên phân tích dữ liệu",
       "category": "work",
-      "description": "Trả lời câu hỏi về bảng tính và CSV bằng số liệu, bảng và biểu đồ bạn có thể kiểm tra.",
-      "try": "What are the top 10 customers by revenue in this CSV?",
+      "description": "Trả lời câu hỏi về bảng tính và CSV bằng số liệu, bảng và biểu đồ để bạn có thể kiểm tra kết quả.",
+      "try": "Top 10 khách hàng có doanh thu cao nhất trong tệp CSV này là những ai?",
       "look": {
         "color": "teal",
         "mascotBody": "circle"
@@ -1520,10 +1520,10 @@
     {
       "id": "assistant",
       "name": "Assistant",
-      "title": "General assistant",
+      "title": "Trợ lý đa năng",
       "category": "everyday",
-      "description": "Trả lời câu hỏi, soạn văn bản và nhận mọi việc bạn giao.",
-      "try": "Plan my week from this list of to-dos",
+      "description": "Trả lời câu hỏi, soạn thảo văn bản và hỗ trợ các công việc bạn giao.",
+      "try": "Lập kế hoạch tuần cho tôi dựa trên danh sách việc cần làm này.",
       "look": {
         "color": "green",
         "mascotBody": "cursor"
@@ -1535,10 +1535,10 @@
     {
       "id": "call-coach",
       "name": "Coach",
-      "title": "Sales call coach",
+      "title": "Huấn luyện viên bán hàng qua điện thoại",
       "category": "sales",
-      "description": "Chấm điểm cuộc gọi bán hàng từ bản ghi lời và gợi ý ba thay đổi hữu ích nhất.",
-      "try": "Score this discovery call transcript",
+      "description": "Chấm điểm cuộc gọi bán hàng dựa trên bản ghi, rồi nêu ba thay đổi có thể giúp những cuộc gọi sau hiệu quả hơn.",
+      "try": "Đánh giá bản ghi cuộc gọi tìm hiểu nhu cầu này.",
       "look": {
         "color": "orange",
         "mascotBody": "star"
@@ -1553,10 +1553,10 @@
     {
       "id": "coder",
       "name": "Dev",
-      "title": "Coding partner",
+      "title": "Trợ lý lập trình",
       "category": "work",
-      "description": "Làm việc trong thư mục dự án: đọc, sửa, chạy test, giải thích thay đổi.",
-      "try": "Find why the tests fail and fix it",
+      "description": "Làm việc trong thư mục dự án: đọc, chỉnh sửa, chạy test và giải thích những thay đổi.",
+      "try": "Tìm nguyên nhân khiến test thất bại và sửa lỗi.",
       "look": {
         "color": "cyan",
         "mascotBody": "hexagon"
@@ -1570,10 +1570,10 @@
     {
       "id": "community",
       "name": "Watch",
-      "title": "Community monitor",
+      "title": "Theo dõi cộng đồng trực tuyến",
       "category": "work",
-      "description": "Theo dõi Discord, Slack hoặc diễn đàn và báo cáo điều quan trọng theo lịch.",
-      "try": "What did the community ask about since yesterday?",
+      "description": "Theo dõi Discord, Slack hoặc diễn đàn, rồi tóm tắt nội dung đáng chú ý theo lịch.",
+      "try": "Cộng đồng đã hỏi gì kể từ hôm qua?",
       "look": {
         "color": "orange",
         "mascotBody": "shield"
@@ -1588,10 +1588,10 @@
     {
       "id": "design-critic",
       "name": "Lens",
-      "title": "Design critic",
+      "title": "Chuyên gia phản biện thiết kế",
       "category": "design",
-      "description": "Nhận xét có xếp hạng cho ảnh chụp màn hình hoặc trang: bố cục, chữ, màu, nội dung và khả năng tiếp cận.",
-      "try": "Critique this landing page screenshot",
+      "description": "Đánh giá bố cục, kiểu chữ, màu sắc, nội dung và khả năng tiếp cận của trang hoặc ảnh chụp màn hình, rồi xếp các góp ý theo mức độ ưu tiên.",
+      "try": "Đánh giá thiết kế trong ảnh chụp trang đích này.",
       "look": {
         "color": "red",
         "mascotBody": "diamond"
@@ -1605,10 +1605,10 @@
     {
       "id": "humanizer",
       "name": "Echo",
-      "title": "Humanizer",
+      "title": "Biên tập viên giọng văn tự nhiên",
       "category": "writing",
-      "description": "Viết lại bản nháp cứng nhắc hoặc giống AI cho tự nhiên như bạn viết, và chỉ rõ mọi thay đổi.",
-      "try": "Make this email sound less robotic",
+      "description": "Viết lại bản nháp khô cứng hoặc có giọng văn như AI cho tự nhiên, gần với cách bạn viết; nêu rõ những chỗ đã thay đổi.",
+      "try": "Viết lại email này cho tự nhiên, bớt máy móc hơn.",
       "look": {
         "color": "pink",
         "mascotBody": "blob"
@@ -1620,10 +1620,10 @@
     {
       "id": "inbox",
       "name": "Inbox",
-      "title": "Email triage",
+      "title": "Trợ lý xử lý email",
       "category": "work",
-      "description": "Đọc hộp thư, đánh dấu những gì cần bạn và soạn câu trả lời để bạn duyệt.",
-      "try": "What in my inbox needs me today?",
+      "description": "Đọc hộp thư, đánh dấu email cần bạn xử lý và soạn thư trả lời để bạn duyệt.",
+      "try": "Hôm nay email nào trong hộp thư cần tôi xử lý?",
       "look": {
         "color": "blue",
         "mascotBody": "squircle"
@@ -1637,10 +1637,10 @@
     {
       "id": "meeting-notes",
       "name": "Minutes",
-      "title": "Meeting notes",
+      "title": "Tóm tắt cuộc họp và theo dõi công việc",
       "category": "work",
-      "description": "Biến bản ghi lời và ghi chú thô thành quyết định, người phụ trách và việc cần làm tiếp.",
-      "try": "Summarise this transcript into decisions and action items",
+      "description": "Chuyển bản ghi cuộc họp và ghi chú thô thành quyết định, người phụ trách và các việc cần làm tiếp.",
+      "try": "Tóm tắt bản ghi này thành các quyết định và việc cần làm.",
       "look": {
         "color": "coral",
         "mascotBody": "squircle"
@@ -1652,10 +1652,10 @@
     {
       "id": "ops",
       "name": "Ops",
-      "title": "Operations",
+      "title": "Điều phối lịch và công việc",
       "category": "work",
-      "description": "Giữ lịch, công việc và việc cần theo dõi luôn trôi chảy; nhắc bạn trước khi có gì bị trễ.",
-      "try": "What's on today, and what's overdue?",
+      "description": "Giúp bạn theo dõi lịch, công việc và các đầu việc cần nhắc; cảnh báo trước khi việc đến hạn.",
+      "try": "Hôm nay tôi có lịch gì và việc nào đã quá hạn?",
       "look": {
         "color": "yellow",
         "mascotBody": "capsule"
@@ -1671,10 +1671,10 @@
     {
       "id": "plant-care",
       "name": "Fern",
-      "title": "Plant care log",
+      "title": "Nhật ký chăm sóc cây",
       "category": "personal",
-      "description": "Ghi nhật ký riêng về cây cảnh trong nhà và nhắc bạn khi cây cần tưới hoặc chăm sóc.",
-      "try": "Add my monstera: living room, bright indirect light",
+      "description": "Ghi nhật ký chăm sóc cây trong nhà và nhắc bạn khi cây cần được tưới hoặc chăm sóc.",
+      "try": "Thêm cây monstera của tôi: ở phòng khách, nhận ánh sáng gián tiếp mạnh.",
       "look": {
         "color": "green",
         "mascotBody": "drop"
@@ -1686,10 +1686,10 @@
     {
       "id": "research",
       "name": "Scout",
-      "title": "Researcher",
+      "title": "Nghiên cứu và tổng hợp thông tin",
       "category": "everyday",
-      "description": "Tìm hiểu trên web và trong tệp của bạn, rồi trả về bản tóm tắt có dẫn nguồn.",
-      "try": "What changed in EU AI rules this year? Sources please",
+      "description": "Tìm hiểu thông tin trên web và trong tệp của bạn, rồi tóm tắt kèm nguồn tham khảo.",
+      "try": "Quy định AI của EU năm nay có gì thay đổi? Hãy dẫn nguồn.",
       "look": {
         "color": "purple",
         "mascotBody": "diamond"
@@ -1701,10 +1701,10 @@
     {
       "id": "social",
       "name": "Buzz",
-      "title": "Social media manager",
+      "title": "Quản lý nội dung mạng xã hội",
       "category": "work",
-      "description": "Lên kế hoạch bài đăng và thêm vào Postiz dưới dạng nháp hoặc bài hẹn giờ, sẵn sàng để bạn duyệt.",
-      "try": "Plan next week's posts for LinkedIn and X",
+      "description": "Lên kế hoạch bài đăng và thêm vào Postiz dưới dạng bản nháp hoặc bài đã lên lịch để bạn duyệt.",
+      "try": "Lên kế hoạch bài đăng tuần tới cho LinkedIn và X.",
       "look": {
         "color": "coral",
         "mascotBody": "star"
@@ -1718,10 +1718,10 @@
     {
       "id": "study",
       "name": "Sage",
-      "title": "Study buddy",
+      "title": "Trợ lý học tập",
       "category": "personal",
-      "description": "Giải thích từng bước, đố bạn và ghi lại những gì bạn còn cần ôn.",
-      "try": "Explain recursion like I'm new to programming",
+      "description": "Giải thích kiến thức từng bước, đặt câu hỏi để bạn tự kiểm tra và ghi lại nội dung cần ôn tập.",
+      "try": "Giải thích đệ quy cho người mới học lập trình.",
       "look": {
         "color": "purple",
         "mascotBody": "blob"
@@ -1733,10 +1733,10 @@
     {
       "id": "travel",
       "name": "Atlas",
-      "title": "Travel planner",
+      "title": "Lập kế hoạch du lịch",
       "category": "personal",
-      "description": "Lên kế hoạch chuyến đi từng ngày theo ngân sách và nhịp độ của bạn, giữ mọi chi tiết ở một chỗ.",
-      "try": "Plan four relaxed days in Lisbon in May",
+      "description": "Lập lịch trình du lịch theo ngày, phù hợp với ngân sách và nhịp độ bạn mong muốn.",
+      "try": "Lên kế hoạch bốn ngày thư thả ở Lisbon vào tháng Năm.",
       "look": {
         "color": "blue",
         "mascotBody": "star"
@@ -1750,10 +1750,10 @@
     {
       "id": "writer",
       "name": "Quill",
-      "title": "Writer",
+      "title": "Trợ lý biên soạn nội dung",
       "category": "writing",
-      "description": "Soạn và sửa bài đăng, email, tài liệu theo giọng văn của bạn, từ ghi chú thô tới bản cuối.",
-      "try": "Turn these notes into a LinkedIn post",
+      "description": "Soạn và biên tập bài đăng, email, tài liệu theo giọng văn của bạn, từ ghi chú ban đầu đến bản hoàn chỉnh.",
+      "try": "Chuyển các ghi chú này thành bài đăng LinkedIn.",
       "look": {
         "color": "pink",
         "mascotBody": "drop"
